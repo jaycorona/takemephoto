@@ -1,0 +1,124 @@
+/* Split Layout */
+.splitlayout, .splitlayout .tds-parallax, .splitlayout .tds-section-content {
+	padding: 0 !important;
+}
+
+.tds-splitlayout {
+	display: block;
+	position: relative;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+	.tds-splitlayout * {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+
+.tds-splitcolumn {
+	padding: 0;
+	display: block;
+	vertical-align: middle;
+	background-size: cover !important;
+	background-position: 50% 50%;
+	position: relative;
+	float: left;
+}
+	.tds-splitcolumn:last-child:after {
+		content: "";
+		display: block;
+		height: 0;
+		clear: both;
+	}
+
+.tds-splitcolumn.full {
+	width: 100%;
+}
+
+.tds-splitcolumn.one.half {
+	width: 50%;
+}
+
+.tds-splitcolumn.one.third {
+	width: 33.3%;
+}
+	.tds-splitcolumn.two.third {
+		width: 66.6%;
+	}
+
+.tds-splitcolumn.one.fourth {
+	width: 25%;
+}
+	.tds-splitcolumn.two.fourth {
+		width: 25%;
+	}
+
+	.tds-splitcolumn.three.fourth {
+		width: 25%;
+	}
+
+.tds-splitcolumn.one.fifth {
+	width: 20%;
+}
+	.tds-splitcolumn.one.fifth {
+		width: 20%;
+	}
+
+	.tds-splitcolumn.two.fifth {
+		width: 40%;
+	}
+
+	.tds-splitcolumn.three.fifth {
+		width: 60%;
+	}
+
+	.tds-splitcolumn.four.fifth {
+		width: 20%;
+	}
+
+.tds-splitcolumn .tds-box {
+	display: table;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 100%;
+	height: 100%;
+	position: relative;
+	margin: auto;
+	vertical-align: middle;
+}
+
+.tds-splitcolumn .tds-box .tds-cell {
+	display: table-cell;
+	padding: 30px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 100%;
+	position: relative;
+	margin: auto;
+	vertical-align: middle;
+}
+
+.tds-splitlayout .tds-splitcolumn img {
+	max-width: 100% !important;
+	width: auto !important;
+}
+
+@media screen and (max-width: 800px){
+	.tds-splitlayout {
+		display: block;
+		height: auto !important;
+		width: 100% !important;
+	}
+	.tds-splitcolumn {
+		float: none;
+	}
+	.tds-splitlayout, .tds-splitcolumn, .tds-splitcolumn .tds-box {
+		/*display: block;*/
+		width: 100% !important;
+	}
+
+}

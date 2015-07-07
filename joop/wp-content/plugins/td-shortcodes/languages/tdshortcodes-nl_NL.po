@@ -1,0 +1,1893 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TD Shortcodes\n"
+"POT-Creation-Date: 2014-10-28 10:54+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Theme Dutch <sales@theme-dutch.com>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../inc/font-list.php:7
+msgid "Standard fonts"
+msgstr ""
+
+#: ../inc/font-list.php:17
+msgid "Google fonts"
+msgstr ""
+
+#: ../inc/shortcode-customheightcolumn.php:118
+#: ../inc/shortcode-splitlayout.php:103
+msgid "No \"column\" width defined."
+msgstr ""
+
+#: ../inc/shortcode-expandingposts.php:156
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../inc/shortcode-expandingposts.php:189
+msgid "AUTHOR"
+msgstr ""
+
+#: ../inc/shortcode-expandingposts.php:194
+msgid "DATE"
+msgstr ""
+
+#: ../inc/shortcode-expandingposts.php:205
+msgid "CATEGORY"
+msgstr ""
+
+#: ../inc/shortcode-expandingposts.php:217
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../inc/shortcode-expandingposts.php:217
+msgid "Read More"
+msgstr ""
+
+#: ../inc/shortcode-expandingposts.php:224
+#: ../inc/shortcode-thumbnail-slider.php:103 ../shortcodes.php:1277
+#: ../shortcodes.php:1416
+msgid "No posts found."
+msgstr ""
+
+#: ../inc/shortcode-thumbnail-slider.php:89
+msgid "read more"
+msgstr ""
+
+#: ../js_composer-support.php:13
+msgid "TD Block"
+msgstr ""
+
+#: ../js_composer-support.php:17
+msgid "Theme Dutch"
+msgstr ""
+
+#: ../js_composer-support.php:22
+msgid "Text"
+msgstr ""
+
+#: ../js_composer-support.php:25
+msgid "Add TD Shortcodes using the TD Shortcodes manager."
+msgstr ""
+
+#: ../shortcodes-overlay.php:13
+msgid "Animated Icon Grid"
+msgstr ""
+
+#: ../shortcodes-overlay.php:14
+msgid "3 Columns Icon Grid"
+msgstr ""
+
+#: ../shortcodes-overlay.php:15 ../shortcodes-overlay.php:60
+#: ../shortcodes-overlay.php:105
+msgid "Inserts an animated icon grid. Columns limits only to 3 - 5."
+msgstr ""
+
+#: ../shortcodes-overlay.php:59
+msgid "4 Columns Icon Grid"
+msgstr ""
+
+#: ../shortcodes-overlay.php:104
+msgid "5 Columns Icon Grid"
+msgstr ""
+
+#: ../shortcodes-overlay.php:152 ../shortcodes-overlay.php:153
+msgid "Animated Image"
+msgstr ""
+
+#: ../shortcodes-overlay.php:154
+msgid "Inserts an animated image shortcode with a custom animation effects."
+msgstr ""
+
+#: ../shortcodes-overlay.php:201
+msgid "Boxed Image"
+msgstr ""
+
+#: ../shortcodes-overlay.php:202
+msgid "Boxed image"
+msgstr ""
+
+#: ../shortcodes-overlay.php:203
+msgid "Inserts a boxed image."
+msgstr ""
+
+#: ../shortcodes-overlay.php:206
+msgid "Boxed image with title"
+msgstr ""
+
+#: ../shortcodes-overlay.php:207
+msgid "Inserts a boxed image with title."
+msgstr ""
+
+#: ../shortcodes-overlay.php:210
+msgid "Boxed image with title and content"
+msgstr ""
+
+#: ../shortcodes-overlay.php:211
+msgid "Inserts a boxed image with title and content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:214
+msgid "Boxed image complete"
+msgstr ""
+
+#: ../shortcodes-overlay.php:215
+msgid "Inserts a boxed image, the full package."
+msgstr ""
+
+#: ../shortcodes-overlay.php:221
+msgid "Boxed Slider"
+msgstr ""
+
+#: ../shortcodes-overlay.php:222
+msgid "Boxed slider"
+msgstr ""
+
+#: ../shortcodes-overlay.php:223
+msgid "Inserts a boxed slider."
+msgstr ""
+
+#: ../shortcodes-overlay.php:226
+msgid "Boxed slider with title"
+msgstr ""
+
+#: ../shortcodes-overlay.php:227
+msgid "Inserts a boxed slider with title."
+msgstr ""
+
+#: ../shortcodes-overlay.php:230
+msgid "Boxed slider with title and content"
+msgstr ""
+
+#: ../shortcodes-overlay.php:231
+msgid "Inserts a boxed slider with title and content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:234
+msgid "Boxed slider complete"
+msgstr ""
+
+#: ../shortcodes-overlay.php:235
+msgid "Inserts a boxed slider, the full package."
+msgstr ""
+
+#: ../shortcodes-overlay.php:241
+msgid "Buttons"
+msgstr ""
+
+#: ../shortcodes-overlay.php:242
+msgid "Small button"
+msgstr ""
+
+#: ../shortcodes-overlay.php:243
+msgid "Inserts a small button."
+msgstr ""
+
+#: ../shortcodes-overlay.php:246
+msgid "Medium button"
+msgstr ""
+
+#: ../shortcodes-overlay.php:247
+msgid "Inserts a medium sized button. "
+msgstr ""
+
+#: ../shortcodes-overlay.php:250
+msgid "Large button"
+msgstr ""
+
+#: ../shortcodes-overlay.php:251
+msgid "Inserts a large button. "
+msgstr ""
+
+#: ../shortcodes-overlay.php:254
+msgid "Small button with Icon"
+msgstr ""
+
+#: ../shortcodes-overlay.php:255
+msgid "Inserts a small button with font awesome icon. "
+msgstr ""
+
+#: ../shortcodes-overlay.php:258
+msgid "Medium button with Icon"
+msgstr ""
+
+#: ../shortcodes-overlay.php:259
+msgid "Inserts a medium sized button with font awesome icon. "
+msgstr ""
+
+#: ../shortcodes-overlay.php:262
+msgid "Large button with Icon"
+msgstr ""
+
+#: ../shortcodes-overlay.php:263
+msgid "Inserts a large button with font awesome icon."
+msgstr ""
+
+#: ../shortcodes-overlay.php:266
+msgid "Button w/ Slide Down Effect (Small)"
+msgstr ""
+
+#: ../shortcodes-overlay.php:267 ../shortcodes-overlay.php:271
+#: ../shortcodes-overlay.php:275 ../shortcodes-overlay.php:279
+#: ../shortcodes-overlay.php:283 ../shortcodes-overlay.php:287
+#: ../shortcodes-overlay.php:291 ../shortcodes-overlay.php:295
+msgid "Inserts a button with Slide Down Effect."
+msgstr ""
+
+#: ../shortcodes-overlay.php:270
+msgid "Button w/ Slide Down Effect (Medium)"
+msgstr ""
+
+#: ../shortcodes-overlay.php:274
+msgid "Button w/ Slide Down Effect (Large)"
+msgstr ""
+
+#: ../shortcodes-overlay.php:278
+msgid "Button w/ Slide Down Effect (X Large)"
+msgstr ""
+
+#: ../shortcodes-overlay.php:282
+msgid "Button w/ Slide Down Effect &amp; Icon (Small)"
+msgstr ""
+
+#: ../shortcodes-overlay.php:286
+msgid "Button w/ Slide Down Effect &amp; Icon (Medium)"
+msgstr ""
+
+#: ../shortcodes-overlay.php:290
+msgid "Button w/ Slide Down Effect &amp; Icon (Large)"
+msgstr ""
+
+#: ../shortcodes-overlay.php:294
+msgid "Button w/ Slide Down Effect &amp; Icon (X Large)"
+msgstr ""
+
+#: ../shortcodes-overlay.php:300
+msgid "Button Transparent (Small)"
+msgstr ""
+
+#: ../shortcodes-overlay.php:301 ../shortcodes-overlay.php:305
+#: ../shortcodes-overlay.php:309 ../shortcodes-overlay.php:313
+#: ../shortcodes-overlay.php:317
+msgid "Inserts a transparent button."
+msgstr ""
+
+#: ../shortcodes-overlay.php:304
+msgid "Button Transparent (Medium)"
+msgstr ""
+
+#: ../shortcodes-overlay.php:308
+msgid "Button Transparent  (Large)"
+msgstr ""
+
+#: ../shortcodes-overlay.php:312
+msgid "Button Transparent  (X Large)"
+msgstr ""
+
+#: ../shortcodes-overlay.php:316
+msgid "Button Transparent (Medium) w/ icon"
+msgstr ""
+
+#: ../shortcodes-overlay.php:323
+msgid "Caption"
+msgstr ""
+
+#: ../shortcodes-overlay.php:324
+msgid "Caption image with hover effects"
+msgstr ""
+
+#: ../shortcodes-overlay.php:325
+msgid ""
+"Caption with 7 hover effects with: <br> <strong>moveDown</strong>,<br> "
+"<strong>moveUp</strong>,<br> <strong>slideUp</strong>,<br> <strong>flip</"
+"strong>,<br> <strong>zoomIn</strong>,<br> <strong>zoomOut</strong> and<br> "
+"<strong>expand</strong>. <br><br>Example:<br> [tds-caption moveDown] "
+"<br><br>Some animations is using CSS 3 transform which may not work smoothly "
+"in IE9 or later versions."
+msgstr ""
+
+#: ../shortcodes-overlay.php:336 ../shortcodes-overlay.php:337
+msgid "Code"
+msgstr ""
+
+#: ../shortcodes-overlay.php:338
+msgid "Display a shortcode inside this block."
+msgstr ""
+
+#: ../shortcodes-overlay.php:344
+msgid "Columns"
+msgstr ""
+
+#: ../shortcodes-overlay.php:345 ../shortcodes-overlay.php:1253
+#: ../shortcodes-overlay.php:1753
+msgid "1 column"
+msgstr ""
+
+#: ../shortcodes-overlay.php:346
+msgid "Inserts one columns in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:349 ../shortcodes-overlay.php:1257
+#: ../shortcodes-overlay.php:1757
+msgid "2 columns"
+msgstr ""
+
+#: ../shortcodes-overlay.php:350
+msgid "Inserts two columns in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:353 ../shortcodes-overlay.php:1261
+#: ../shortcodes-overlay.php:1761
+msgid "1/3 - 2/3"
+msgstr ""
+
+#: ../shortcodes-overlay.php:354
+msgid ""
+"Inserts two columns, one a third and the other two thirds, in which you can "
+"place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:357 ../shortcodes-overlay.php:1265
+#: ../shortcodes-overlay.php:1765
+msgid "2/3 - 1/3"
+msgstr ""
+
+#: ../shortcodes-overlay.php:358
+msgid ""
+"Inserts two columns, one two thirds and the other a third, in which you can "
+"place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:361 ../shortcodes-overlay.php:1269
+#: ../shortcodes-overlay.php:1769
+msgid "1/4 - 3/4"
+msgstr ""
+
+#: ../shortcodes-overlay.php:362 ../shortcodes-overlay.php:366
+#: ../shortcodes-overlay.php:370 ../shortcodes-overlay.php:374
+msgid ""
+"Inserts two columns, one a fourth and the other three fourths, in which you "
+"can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:365
+msgid "1/4 - 1/4 - 1/2"
+msgstr ""
+
+#: ../shortcodes-overlay.php:369
+msgid "1/4 - 1/2 - 1/4"
+msgstr ""
+
+#: ../shortcodes-overlay.php:373
+msgid "1/2 - 1/4 - 1/4"
+msgstr ""
+
+#: ../shortcodes-overlay.php:377 ../shortcodes-overlay.php:1273
+#: ../shortcodes-overlay.php:1773
+msgid "3/4 - 1/4"
+msgstr ""
+
+#: ../shortcodes-overlay.php:378
+msgid ""
+"Inserts two columns, one three fourths and the other a fourth, in which you "
+"can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:381 ../shortcodes-overlay.php:1277
+#: ../shortcodes-overlay.php:1777
+msgid "3 columns"
+msgstr ""
+
+#: ../shortcodes-overlay.php:382
+msgid "Inserts three columns in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:385 ../shortcodes-overlay.php:1281
+#: ../shortcodes-overlay.php:1781
+msgid "4 columns"
+msgstr ""
+
+#: ../shortcodes-overlay.php:386
+msgid "Inserts four columns in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:389 ../shortcodes-overlay.php:1285
+#: ../shortcodes-overlay.php:1785
+msgid "5 columns"
+msgstr ""
+
+#: ../shortcodes-overlay.php:390
+msgid "Inserts five columns in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:393
+msgid "Custom 2 columns"
+msgstr ""
+
+#: ../shortcodes-overlay.php:394
+msgid ""
+"1. Insert the default column shortcode, which also can be changed into 3/4/5 "
+"columns  2. Then insert only the URL of your favourite background image. 3. "
+"Choose your own personal text color  4. Set your own image size (default "
+"settings are: 100 % and 150 px), which can be made larger or smaller"
+msgstr ""
+
+#: ../shortcodes-overlay.php:399 ../shortcodes-overlay.php:1296
+#: ../shortcodes-overlay.php:1796
+msgid "Animated 1 columns"
+msgstr ""
+
+#: ../shortcodes-overlay.php:400
+msgid "Inserts one animated columns in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:445 ../shortcodes-overlay.php:1342
+#: ../shortcodes-overlay.php:1842
+msgid "Animated 2 columns"
+msgstr ""
+
+#: ../shortcodes-overlay.php:446
+msgid "Inserts two animated columns in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:490 ../shortcodes-overlay.php:1387
+#: ../shortcodes-overlay.php:1887
+msgid "Animated 1/3 - 2/3"
+msgstr ""
+
+#: ../shortcodes-overlay.php:491
+msgid ""
+"Inserts two animated columns, one a third and the other two thirds, in which "
+"you can place further content. "
+msgstr ""
+
+#: ../shortcodes-overlay.php:535 ../shortcodes-overlay.php:1432
+#: ../shortcodes-overlay.php:1932
+msgid "Animated 2/3 - 1/3"
+msgstr ""
+
+#: ../shortcodes-overlay.php:536
+msgid ""
+"Inserts two animated columns, one two thirds and the other a third, in which "
+"you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:580 ../shortcodes-overlay.php:1477
+#: ../shortcodes-overlay.php:1977
+msgid "Animated 1/4 - 3/4"
+msgstr ""
+
+#: ../shortcodes-overlay.php:581
+msgid ""
+"Inserts two animated columns, one a fourth and the other three fourths, in "
+"which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:625 ../shortcodes-overlay.php:1522
+#: ../shortcodes-overlay.php:2022
+msgid "Animated 3/4 - 1/4"
+msgstr ""
+
+#: ../shortcodes-overlay.php:626
+msgid ""
+"Inserts two animated columns, one three fourths and the other a fourth, in "
+"which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:670 ../shortcodes-overlay.php:1567
+#: ../shortcodes-overlay.php:2067
+msgid "Animated 3 columns"
+msgstr ""
+
+#: ../shortcodes-overlay.php:671
+msgid "Inserts three animated columns in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:715 ../shortcodes-overlay.php:1612
+#: ../shortcodes-overlay.php:2112
+msgid "Animated 4 columns"
+msgstr ""
+
+#: ../shortcodes-overlay.php:716
+msgid "Inserts four animated columns in which you can place further content. "
+msgstr ""
+
+#: ../shortcodes-overlay.php:760 ../shortcodes-overlay.php:1657
+#: ../shortcodes-overlay.php:2157
+msgid "Animated 5 columns"
+msgstr ""
+
+#: ../shortcodes-overlay.php:761
+msgid "Inserts five animated columns in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:805
+msgid "Animated Custom 2 columns"
+msgstr ""
+
+#: ../shortcodes-overlay.php:806
+msgid ""
+"1. Insert the default animated column shortcode, which also can be changed "
+"into 3/4/5 columns  2. Then insert only the URL of your favourite background "
+"image. 3. Choose your own personal text color  4. Set your own image size "
+"(default settings are: 100 % and 150 px), which can be made larger or "
+"smaller "
+msgstr ""
+
+#: ../shortcodes-overlay.php:853
+msgid "Columns (divider)"
+msgstr ""
+
+#: ../shortcodes-overlay.php:854
+msgid "2 columns + divider"
+msgstr ""
+
+#: ../shortcodes-overlay.php:855
+msgid ""
+"Inserts two columns separated by a divider line in which you can place "
+"further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:858
+msgid "1/3 - 2/3 + divider"
+msgstr ""
+
+#: ../shortcodes-overlay.php:859
+msgid ""
+"Inserts two columns, one a third and the other two thirds, separated by a "
+"divider line in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:862
+msgid "2/3 - 1/3 + divider"
+msgstr ""
+
+#: ../shortcodes-overlay.php:863
+msgid ""
+"Inserts two columns, one two thirds and the other a third, separated by a "
+"divider line in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:866
+msgid "1/4 - 3/4 + divider"
+msgstr ""
+
+#: ../shortcodes-overlay.php:867
+msgid ""
+"Inserts two columns, one a fourth and the other three fourths, separated by "
+"a divider line in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:870
+msgid "3/4 - 1/4 + divider"
+msgstr ""
+
+#: ../shortcodes-overlay.php:871
+msgid ""
+"Inserts two columns, one three fourths and the other a fourth, separated by "
+"a divider line in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:874
+msgid "3 columns + divider"
+msgstr ""
+
+#: ../shortcodes-overlay.php:875
+msgid ""
+"Inserts three columns separated by a divider line in which you can place "
+"further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:878
+msgid "4 columns + divider"
+msgstr ""
+
+#: ../shortcodes-overlay.php:879
+msgid ""
+"Inserts four columns separated by a divider line in which you can place "
+"further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:882
+msgid "5 columns + divider"
+msgstr ""
+
+#: ../shortcodes-overlay.php:883
+msgid ""
+"Inserts five columns separated by a divider line in which you can place "
+"further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:888
+msgid "Animated 2 columns + divider"
+msgstr ""
+
+#: ../shortcodes-overlay.php:889
+msgid ""
+"Inserts two animated columns separated by a divider line in which you can "
+"place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:933
+msgid "Animated 1/3 - 2/3 + divider"
+msgstr ""
+
+#: ../shortcodes-overlay.php:934
+msgid ""
+"Inserts two animated columns, one a third and the other two thirds, "
+"separated by a divider line in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:978
+msgid "Animated 2/3 - 1/3 + divider"
+msgstr ""
+
+#: ../shortcodes-overlay.php:979
+msgid ""
+"Inserts two animated columns, one two thirds and the other a third, "
+"separated by a divider line in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1023
+msgid "Animated 1/4 - 3/4 + divider"
+msgstr ""
+
+#: ../shortcodes-overlay.php:1024
+msgid ""
+"Inserts two animated columns, one a fourth and the other three fourths, "
+"separated by a divider line in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1068
+msgid "Animated 3/4 - 1/4 + divider"
+msgstr ""
+
+#: ../shortcodes-overlay.php:1069
+msgid ""
+"Inserts two animated columns, one three fourths and the other a fourth, "
+"separated by a divider line in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1113
+msgid "Animated 3 columns + divider"
+msgstr ""
+
+#: ../shortcodes-overlay.php:1114
+msgid ""
+"Inserts three animated columns separated by a divider line in which you can "
+"place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1158
+msgid "Animated 4 columns + divider"
+msgstr ""
+
+#: ../shortcodes-overlay.php:1159
+msgid ""
+"Inserts four animated columns separated by a divider line in which you can "
+"place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1203
+msgid "Animated 5 columns + divider"
+msgstr ""
+
+#: ../shortcodes-overlay.php:1204
+msgid ""
+"Inserts five animated columns separated by a divider line in which you can "
+"place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1252
+msgid "Columns (fullheight)"
+msgstr ""
+
+#: ../shortcodes-overlay.php:1254
+msgid "Inserts one fullheight column in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1258
+msgid "Inserts two fullheight columns in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1262
+msgid ""
+"Inserts two fullheight columns, one a third and the other two thirds, in "
+"which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1266
+msgid ""
+"Inserts two fullheight columns, one two thirds and the other a third, in "
+"which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1270
+msgid ""
+"Inserts two fullheight columns, one a fourth and the other three fourths, in "
+"which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1274
+msgid ""
+"Inserts two fullheight columns, one three fourths and the other a fourth, in "
+"which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1278
+msgid ""
+"Inserts three fullheight columns in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1282
+msgid "Inserts four fullheight columns in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1286
+msgid "Inserts five fullheight columns in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1289 ../shortcodes-overlay.php:1789
+msgid "Custom column"
+msgstr ""
+
+#: ../shortcodes-overlay.php:1290
+msgid ""
+"Inserts one fullheight column with background image, backgroundcolor, "
+"textcolor, opacity and width."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1297
+msgid ""
+"Inserts one animated fullheight columns in which you can place further "
+"content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1343
+msgid ""
+"Inserts two animated fullheight columns in which you can place further "
+"content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1388
+msgid ""
+"Inserts two animated fullheight columns, one a third and the other two "
+"thirds, in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1433
+msgid ""
+"Inserts two animated fullheight columns, one two thirds and the other a "
+"third, in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1478
+msgid ""
+"Inserts two animated fullheight columns, one a fourth and the other three "
+"fourths, in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1523
+msgid ""
+"Inserts two animated fullheight columns, one three fourths and the other a "
+"fourth, in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1568
+msgid ""
+"Inserts three animated fullheight columns in which you can place further "
+"content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1613
+msgid ""
+"Inserts four animated fullheight columns in which you can place further "
+"content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1658
+msgid ""
+"Inserts five animated fullheight columns in which you can place further "
+"content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1703 ../shortcodes-overlay.php:2203
+msgid "Custom animated column"
+msgstr ""
+
+#: ../shortcodes-overlay.php:1704
+msgid ""
+"Inserts one fullheight animated column with background image, "
+"backgroundcolor, textcolor, opacity and width."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1752
+msgid "Custom Height Columns)"
+msgstr ""
+
+#: ../shortcodes-overlay.php:1754
+msgid ""
+"Inserts one custom height column in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1758
+msgid ""
+"Inserts two custom height columns in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1762
+msgid ""
+"Inserts two custom height columns, one a third and the other two thirds, in "
+"which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1766
+msgid ""
+"Inserts two custom height columns, one two thirds and the other a third, in "
+"which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1770
+msgid ""
+"Inserts two custom height columns, one a fourth and the other three fourths, "
+"in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1774
+msgid ""
+"Inserts two custom height columns, one three fourths and the other a fourth, "
+"in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1778
+msgid ""
+"Inserts three custom height columns in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1782
+msgid ""
+"Inserts four custom height columns in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1786
+msgid ""
+"Inserts five custom height columns in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1790
+msgid ""
+"Inserts one custom height column with background image, backgroundcolor, "
+"textcolor, opacity and width."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1797
+msgid ""
+"Inserts one animated custom height columns in which you can place further "
+"content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1843
+msgid ""
+"Inserts two animated custom height columns in which you can place further "
+"content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1888
+msgid ""
+"Inserts two animated custom height columns, one a third and the other two "
+"thirds, in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1933
+msgid ""
+"Inserts two animated custom height columns, one two thirds and the other a "
+"third, in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:1978
+msgid ""
+"Inserts two animated custom height columns, one a fourth and the other three "
+"fourths, in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2023
+msgid ""
+"Inserts two animated custom height columns, one three fourths and the other "
+"a fourth, in which you can place further content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2068
+msgid ""
+"Inserts three animated custom height columns in which you can place further "
+"content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2113
+msgid ""
+"Inserts four animated custom height columns in which you can place further "
+"content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2158
+msgid ""
+"Inserts five animated custom height columns in which you can place further "
+"content."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2204
+msgid ""
+"Inserts one custom height animated column with background image, "
+"backgroundcolor, textcolor, opacity and width."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2252 ../shortcodes-overlay.php:2253
+msgid "Counter"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2254
+msgid ""
+"Inserts a counter. You can also insert other shortcodes below the counter"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2260
+msgid "Dividers"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2261
+msgid "Icon Separator"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2262
+msgid "Inserts a horizontal separator line with an icon."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2265
+msgid "Text Separator"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2266
+msgid "Inserts a horizontal separator line with a text."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2269
+msgid "Dotted"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2270
+msgid "Inserts a dotted divider line."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2273
+msgid "Invisible Spacer 20px"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2274
+msgid ""
+"Inserts a spacer of 20 pixels high. Perfect to create space between columns."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2277
+msgid "Slashed"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2278
+msgid "Inserts a slashed tall divider line."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2281
+msgid "Solid"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2282
+msgid "Inserts a solid divider line."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2285
+msgid "To top"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2286
+msgid ""
+"Inserts a solid divider line with a button that scrolls the page to the top."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2289
+msgid "Custom Color"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2290
+msgid "Inserts a solid divider line with color."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2293
+msgid "Align Left"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2294
+msgid "Inserts a solid divider line with color and align left ."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2297
+msgid "Align Right"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2298
+msgid "Inserts a solid divider line with color and align right ."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2304
+msgid "Dropcaps"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2305
+msgid "Red dropcap"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2306
+msgid "Inserts a red dropcap."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2309
+msgid "Green dropcap"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2310
+msgid "Inserts a green dropcap."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2313
+msgid "Blue dropcap"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2314
+msgid "Inserts a blue dropcap."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2317
+msgid "White dropcap"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2318
+msgid "Inserts a white dropcap."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2321
+msgid "Black dropcap"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2322
+msgid "Inserts a black dropcap."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2325
+msgid "Grey dropcap"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2326
+msgid "Inserts a grey dropcap."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2332
+msgid "Headings"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2333
+msgid "Padded heading 1"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2334 ../shortcodes-overlay.php:2338
+#: ../shortcodes-overlay.php:2342 ../shortcodes-overlay.php:2346
+#: ../shortcodes-overlay.php:2350 ../shortcodes-overlay.php:2354
+msgid "Inserts a padded heading."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2337
+msgid "Padded heading 2"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2341
+msgid "Padded heading 3"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2345
+msgid "Padded heading 4"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2349
+msgid "Padded heading 5"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2353
+msgid "Padded heading 6"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2360
+msgid "Icons"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2363
+msgid "Image gallery"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2364
+msgid "Image gallery, 2 columns"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2365
+msgid "Inserts an image gallery with 2 columns."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2368
+msgid "Image gallery, 3 columns"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2369
+msgid "Inserts an image gallery with 3 columns."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2372
+msgid "Image gallery, 4 columns"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2373
+msgid "Inserts an image gallery with 4 columns."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2376
+msgid "Image gallery, 6 columns"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2377
+msgid "Inserts an image gallery with 6 columns."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2383 ../shortcodes-overlay.php:2388
+msgid "Image Menu"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2384
+msgid "Image Menu Panel"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2385
+msgid ""
+"inserts Image Menu. Image dimension must be width = 75px  and height = 350px "
+msgstr ""
+
+#: ../shortcodes-overlay.php:2389
+msgid ""
+"inserts Single Image Menu. Will only work inside [tds-imagemenupanel]. Image "
+"dimension must be width = 75px  and height = 350px "
+msgstr ""
+
+#: ../shortcodes-overlay.php:2395
+msgid "Lists"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2396
+msgid "Balloon"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2397
+msgid "A list with balloon icon bullets."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2400
+msgid "Circle"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2401
+msgid "A list with circular bullets."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2404
+msgid "Creditcard"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2405
+msgid "A list with creditcard icon bullets."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2408
+msgid "Dot"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2409
+msgid "A list with dotted bullets."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2412
+msgid "File"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2413
+msgid "A list with file icon bullets."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2416
+msgid "Mail"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2417
+msgid "A list with mail icon bullets."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2420 ../shortcodes-overlay.php:2468
+msgid "Info"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2421
+msgid "A list with info icon bullets."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2424
+msgid "Minus"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2425
+msgid "A list with minus sign bullets."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2428
+msgid "Phone"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2429
+msgid "A list with phone icon bullets."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2432
+msgid "Plus"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2433
+msgid "A list with plus sign bullets."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2436 ../shortcodes-overlay.php:2488
+msgid "Question"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2437
+msgid "A list with question icon bullets."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2440
+msgid "Square"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2441
+msgid "A list with square bullets."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2444
+msgid "Support"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2445
+msgid "A list with \"support\" icon bullets."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2448
+msgid "V"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2449
+msgid "A list with tick bullets."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2452 ../shortcodes-overlay.php:2464
+msgid "Warning"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2453
+msgid "A list with warning icon bullets."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2456
+msgid "X"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2457
+msgid "A list with cross bullets."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2463
+msgid "Notifications"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2465
+msgid "A warning notification."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2469
+msgid "An informative notification."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2472
+msgid "Textbox white"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2473
+msgid "An informative White box notification."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2476
+msgid "Textbox black"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2477
+msgid "An informative Black box notification."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2480
+msgid "Textbox grey"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2481
+msgid "An informative Grey box notification."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2484
+msgid "Ok"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2485
+msgid "A positive notification."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2489
+msgid "A question notification."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2492
+msgid "Error"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2493
+msgid "An error notification."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2496
+msgid "Custom"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2497 ../shortcodes-overlay.php:2501
+msgid "A custom notification."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2500
+msgid "Custom with Icon"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2507
+msgid "Price Table "
+msgstr ""
+
+#: ../shortcodes-overlay.php:2508
+msgid "Price Table (1 Column)"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2509 ../shortcodes-overlay.php:2513
+#: ../shortcodes-overlay.php:2517 ../shortcodes-overlay.php:2521
+#: ../shortcodes-overlay.php:2525
+msgid "Inserts a Price Table."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2512
+msgid "Price Table (2 Columns)"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2516
+msgid "Price Table (3 Column)"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2520
+msgid "Price Table (4 Column)"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2524
+msgid "Price Table (5 Column)"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2531
+msgid "Progress Bar"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2532
+msgid "Progress Bar Gray"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2533 ../shortcodes-overlay.php:2537
+#: ../shortcodes-overlay.php:2541 ../shortcodes-overlay.php:2545
+#: ../shortcodes-overlay.php:2549 ../shortcodes-overlay.php:2553
+#: ../shortcodes-overlay.php:2557 ../shortcodes-overlay.php:2561
+#: ../shortcodes-overlay.php:2565 ../shortcodes-overlay.php:2569
+#: ../shortcodes-overlay.php:2573
+msgid "Inserts a Progress Bar Gray."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2536
+msgid "Progress Bar Orange"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2540
+msgid "Progress Bar Silver"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2544
+msgid "Progress Bar Green"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2548
+msgid "Progress Bar Blue"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2552
+msgid "Progress Bar Yellow"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2556
+msgid "Progress Bar Red"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2560
+msgid "Progress Bar Aqua"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2564
+msgid "Progress Bar Teal"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2568
+msgid "Progress Bar Purple"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2572
+msgid "Progress Bar Pink"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2580
+msgid "Quotes"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2581
+msgid "Quote block"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2582
+msgid "Inserts a block which is styled like a quote."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2585
+msgid "Pullquote left"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2586
+msgid "Inserts a left-aligned pullquote block."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2589
+msgid "Pullquote right"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2590
+msgid "Inserts a right-aligned pullquote block."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2593
+msgid "Quote symbol 1"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2594 ../shortcodes-overlay.php:2598
+#: ../shortcodes-overlay.php:2602 ../shortcodes-overlay.php:2606
+#: ../shortcodes-overlay.php:2610
+msgid "Inserts a quote symbol image, which will be placed like a dropcap."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2597
+msgid "Quote symbol 2"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2601
+msgid "Quote symbol 3"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2605
+msgid "Quote symbol 4"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2609
+msgid "Quote symbol 5"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2613
+msgid "Quotes Rotator"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2614
+msgid "Inserts a Quotes Rotator."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2620
+msgid "Scroll To Section"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2621
+msgid "Button"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2622
+msgid ""
+"Inserts a button with sroll to section effect. For more options on button, "
+"check button shortcode. <br /><br />Note: This must be paired with section. "
+"SectionID must be unique and the same on button and target section."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2625
+msgid "Button w/ Slide Down Effect"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2626 ../shortcodes-overlay.php:2630
+msgid ""
+"Inserts a button with sroll to section effect. For more options on button, "
+"check button shortcode.<br /><br />Note: This must be paired with section. "
+"SectionID must be unique and the same on button and target section"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2629
+msgid "Button Transparent"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2633 ../shortcodes-overlay.php:2645
+#: ../shortcodes-overlay.php:2654
+msgid "Section"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2634 ../shortcodes-overlay.php:2638
+msgid ""
+"Inserts a section for scroll to section effect. For more options on section, "
+"check section shortcode. <br /><br />Note: This must be paired with button. "
+"SectionID must be unique and the same on button and target section"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2637 ../shortcodes-overlay.php:2658
+msgid "Section with a background image"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2646
+msgid "Section Separator"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2647 ../shortcodes-overlay.php:2651
+msgid "Inserts a section separator shortcode, direction down"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2650
+msgid "Section Separator Down"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2655
+msgid ""
+"Inserts a section shortcode where you can have 100% width a custom "
+"background and text color."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2659 ../shortcodes-overlay.php:2663
+msgid "Inserts a section with background image and parallax scrolling effect."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2662
+msgid "Section with a background image and a parallax effect"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2666
+msgid "Section with a sequence background image and a parallax effect"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2667
+msgid ""
+"Inserts a section with sequence background image and parallax scrolling "
+"effect."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2670
+msgid "Section Full Screen"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2671
+msgid ""
+"Inserts a section short code perfect for using a full screen video "
+"background."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2677
+msgid "Special Shortcodes"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2680
+msgid "Category Blog Posts"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2681
+msgid ""
+"Inserts a list of latest posts in a grid style format. You select which "
+"category to display, limit the number of posts."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2686
+msgid "Custom Latest Posts"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2687
+msgid ""
+"Inserts a list of latest posts in a blog style format. You put a custom "
+"title, select which category to display, limit the number of posts, limit "
+"the number of words and use thumbnail, medium or large as the size of the "
+"featured image."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2692
+msgid "Highlight"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2693
+msgid "Inserts a highlighted text shortcode."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2698
+msgid "Latest Posts"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2699
+msgid "Inserts a list of latest posts."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2704
+msgid "Login Form"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2705
+msgid "Inserts a WP Login Form."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2710
+msgid "Popular Posts"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2711
+msgid "Inserts a list of popular posts."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2716
+msgid "Portfolio"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2717
+msgid "Inserts a Portfolio block."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2722
+msgid "Random Posts"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2723
+msgid "Inserts a list of random posts."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2728
+msgid "Expanding Posts"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2729
+msgid "Inserts an expanding posts menu."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2734
+msgid "Thumbnail Post Slider"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2735 ../shortcodes-overlay.php:2741
+msgid "Inserts an Accordion-Carousel Thumbnail slider."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2740
+msgid "Thumbnail Product Slider"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2747
+msgid "Tabs"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2748
+msgid "Tab block"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2749
+msgid ""
+"Inserts a tabbed content block. Use [tds-tab] shortcodes to add more tabs."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2752
+msgid "Left Tab block"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2753 ../shortcodes-overlay.php:2757
+msgid ""
+"Inserts a tabbed content block with tab titles on the left. Use [tds-tab] "
+"shortcodes to add more tabs."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2756
+msgid "Right Tab block"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2760
+msgid "Single tab"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2761
+msgid ""
+"A single tab. This needs to be placed inside a [tds-tabs] shortcode (and not "
+"inside another [tds-tab] shortcode) to work."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2767 ../shortcodes-overlay.php:2768
+msgid "Text Rotator"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2769
+msgid "Inserts Text Rotator."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2772
+msgid "Text Rotator Block"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2773
+msgid ""
+"Inserts Text Rotator. This will only work in side [tds-rotatorpanel] "
+"shortcode"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2779 ../shortcodes-overlay.php:2780
+msgid "Timed Notification"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2781 ../shortcodes-overlay.php:2785
+#, php-format
+msgid ""
+"Inserts time notification. You can change options for duration, icon, "
+"iconcolor, textcolor, backgroundcolor, bordercolor and progressbarcolor.<br /"
+"><br /><br />note: progressbar color is 50% opacity."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2784
+msgid "Timed Notification with icon"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2791
+msgid "Toggle"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2792
+msgid "Toggle block"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2793
+msgid ""
+"Inserts a toggled content block. Use [tds-togglecontent] shortcodes to add "
+"more content sections."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2796
+msgid "Single toggle section"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2797
+msgid ""
+"A single toggle content section. This needs to be placed inside a [tds-"
+"toggle] shortcode (and not inside another [tds-togglecontent] shortcode) to "
+"work."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2802
+msgid "Toggle Divider"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2803
+msgid "Inserts toggle divider."
+msgstr ""
+
+#: ../shortcodes-overlay.php:2809 ../shortcodes-overlay.php:2810
+msgid "Vertical Timeline"
+msgstr ""
+
+#: ../shortcodes-overlay.php:2811
+msgid "Inserts vertical timeline."
+msgstr ""
+
+#: ../shortcodes-overlay.php:3003
+msgid "Categories"
+msgstr ""
+
+#: ../shortcodes-overlay.php:3008
+msgid "Shortcodes"
+msgstr ""
+
+#: ../shortcodes-overlay.php:3013
+msgid "Description"
+msgstr ""
+
+#: ../shortcodes.php:466
+msgid "Invalid or no \"column\" shortcode attribute."
+msgstr ""
+
+#: ../shortcodes.php:751
+msgid "Invalid or no \"list\" shortcode attribute."
+msgstr ""
+
+#: ../shortcodes.php:827
+msgid "Invalid or no \"notify\" shortcode attribute."
+msgstr ""
+
+#: ../shortcodes.php:1390
+msgid " Read more"
+msgstr ""
+
+#: ../shortcodes/archive.php:115
+msgid "Permalink to "
+msgstr ""
+
+#: ../shortcodes/archive.php:116
+msgid "by"
+msgstr ""
+
+#: ../shortcodes/archive.php:116
+msgid "View all posts by "
+msgstr ""
+
+#: ../shortcodes/archive.php:121
+msgid "Read more"
+msgstr ""
+
+#: ../shortcodes/archive.php:132
+msgid "No entries yet for the category"
+msgstr ""
+
+#: ../td-shortcodes.php:206
+msgid "Add Shortcodes"
+msgstr ""

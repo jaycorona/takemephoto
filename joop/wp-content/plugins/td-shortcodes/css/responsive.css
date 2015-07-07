@@ -1,0 +1,116 @@
+/* =Responsive 12 Column Grid
+-------------------------------------------------------------- */
+.grid {
+	float: left;
+	margin-bottom: 2.127659574468%;
+	padding-top: 0;
+}
+
+.grid-right {
+	float: right;
+	margin-bottom: 2.127659574468%;
+	padding-top: 0;
+}
+
+.col-one,
+.col-two,
+.col-three,
+.col-four,
+.col-five,
+.col-six,
+.col-seven,
+.col-eight,
+.col-nine,
+.col-ten,
+.col-eleven {
+	display: inline;
+	margin-right: 2.127659574468%;
+
+	transition: width 2s linear;
+	-moz-transition: width 2s linear;
+	-webkit-transition: width 2s linear;
+	-o-transition: width 2s linear;
+}
+
+.col-one {
+	width: 6.382978723404%;
+}
+
+.col-two {
+	width: 14.893617021277%;
+}
+
+.col-three {
+	width: 23.404255319149%;
+}
+
+.col-four {
+	width: 31.914893617021%;
+}
+
+.col-five {
+	width: 40.425531914894%;
+}
+
+.col-six {
+	width: 48.936170212766%;
+}
+
+.col-seven {
+	width: 57.446808510638%;
+}
+
+.col-eight {
+	width: 65.957446808511%;
+}
+
+.col-nine {
+	width: 74.468085106383%;
+}
+
+.col-ten {
+	width: 82.978723404255%;
+}
+
+.col-eleven {
+	width: 91.489361702128%;
+}
+
+.col-twelve {
+	width: 100%;
+}
+.fit,
+.col-one .last, .col-two .last, .col-three .last, .col-four .last, .col-five .last, .col-six .last, .col-seven .last, .col-eight .last, .col-nine .last, .col-ten .last, .col-eleven .last, .col-twelve .last {
+	margin-left: 0 !important;
+	margin-right: 0 !important;
+	padding-right: 0 !important;
+	border-right: none !important;
+}
+
+.fit:after, .last:after {
+	content: ' ';
+	height: 0px;
+	display: block;
+	clear: left;
+}
+
+/* =Responsive (Mobile) Design
+-------------------------------------------------------------- */
+@media screen and (max-width: 800px) {
+	.grid, .grid-right,
+	.col-one,
+	.col-two,
+	.col-three,
+	.col-four,
+	.col-five,
+	.col-six,
+	.col-seven,
+	.col-eight,
+	.col-nine,
+	.col-ten,
+	.col-eleven {
+		float: none;
+		display: block;
+		width: 100%;
+	}
+}

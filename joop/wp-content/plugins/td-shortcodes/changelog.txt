@@ -1,0 +1,126 @@
+*** TD Shortcodes CHANGELOG made by Theme-dutch.com ***
+
+
+2014.10.29 - version 1.6.3.1
+    * Revision for custom column height shortcode to work in the footer widget area
+
+2014.10.28 - version 1.6.3
+    * Major revision for language translations
+
+
+2014.10.21 - version 1.6.2
+    * Update WP4.0
+    * Added new shortcode with custom height columns
+
+
+2014.09.03 - version 1.6.1
+    * Updated prettyPhoto
+
+2014.08.22 - version 1.6
+    * Added Archive shortcode [tds-archive  category="all" number="10" orderby="random" showmeta="yes"]
+    * Added 1/4-/14-1/2 | 1/4-1/2-1/4 | 1/2-1/4-1/4 columns in the shortcode overlay
+    * Added lines option to the expanding post shortcode
+    * Change js and css to minified format
+    * Fix TDS separator
+    * Fix Image sequence image background white space on scroll
+    * Fix quotes shortcode
+    * Fix Button slidedown effects
+    * Updated TDS counter shortcode
+    * Updated Thumbnail slider
+
+
+2014.07.29 - version 1.5
+    * Added Boxed Slider [tds-boxed-slider]
+    * Renamed Image Box to Boxed Image
+
+2014.07.18 - version 1.4.4
+    * Minified several TD Shortcode javascript files
+
+2014.07.13 - version 1.4.3
+    * Hotfix - tds-divider shortcode, removed the custom args
+    * Added - Added tds-separator shortcode:
+              [tds-separator color=#c50000 thickness=1 width=50%][tds-icon name=fa-circle-thin size="2x"][/tds-separator]
+
+
+2014.07.09 - version 1.4.2
+    * Added - a new horizontal divider shortcode :
+                [tds-divider custom color=#c50000 thickness=10 width=50%] [tds-icon name=fa-soundcloud size="3x"] [/tds-divider]
+                [tds-divider custom color=#c50000 thickness=10 width=50%] your text [/tds-divider]
+
+                With this new divider shortcode, ALL divider shortcodes within the same page content should be closed. e.g. [tds-divider]..[/tds-divider]
+
+    * Added - A section separator shortcode
+                [tds-section-separator background="#000000" opacity="80"]
+
+2014.07.08 - version 1.4.1
+    * Update - Font awesome icons
+    * Update - update the font awesome icon preview in the shortcode overlay
+
+2014.07.01 - version 1.4
+    * Fix - Load CSS styles and JS scripts conditionally (only when the shortcode is used)
+
+2014.06.05 - version 1.3.9
+    * Added - Box content shortcode
+    * Fix - Sanitize tds-image src, title and alt text
+
+2014.05.30 - version 1.3.8
+    * Added - Parallax with a sequence background
+    * Update - Animate css, the animation duration and delay
+    * Update - Font Awesome icons version 4.1.0
+    * Fix - Section shortcode max width problem when inside the toggle content shortcode
+
+2014.05.14 - version 1.3.7
+    * Fix - Latest blogpost shortcode error
+    * Fix - Latest blogpost shortcode css issue
+    * Fix - Button transparent shortcode new window option made it to accept yes or true
+
+2014.05.08 - version 1.3.6
+  * Added - box sizing tds elements
+  * Fix - Split layout width issues eg 202.6px
+  * Fix - Latest blogpost shortcode html validation error
+
+2014.05.06 - version 1.3.5
+  * Fix - Splitcolumns column width and height adjustments
+  * Fix - Expanding posts shortcode styling
+  * Added - Filter to Pre run Full height shortcode before wpautop
+
+2014.04.24 - version 1.3.4
+  * Fix - Splitcolumns column width fix on mobile
+  * Fix - Section shortcode in mobile devices
+  * Fix - Caption shortcode in mobile devices
+
+
+2014.04.16 - version 1.3.3
+  * Fix - turn on/off parallax in Section shortcode issue and added a shortcut in the overlay
+  * Fix - Progressbar animations upon scrolling to their position
+
+2014.04.15 - version 1.3.2
+  * New - shortcode Column with fullheight
+
+2014.04.04 - version 1.3.1
+  * Fix - style scope
+
+2014.04.02 - version 1.3
+  * Added - Expanding post shortcode
+  * Fix - loading of js scripts when shortcode is not being used
+
+2014.03.15 - version 1.2.3
+  * Added - added an option to have padding on the highlight shortcode
+  * Fix - fixes for HTML5 Validator
+  * Fix - fix on button with no link but has scrollto
+  * Fix - fix on Portfolio breadcrumb remove
+  * Fix - fix Animated 5 columns shortcode
+  * Added - CSS tranform notifications to alert users that some animations may not work in IE9 or later versions
+
+2014.03.05 - version 1.2.2
+  * Fix - custom section width
+  * Added - Scroll to Section shortcode
+  * Fix - fix icon sizes
+  * Fix - Image gallery compatibility
+
+2014.02.17 - version 1.2.1
+  * Fix - Fixes on caption hover inside column shortcode
+  * Update - Added border options on caption hover
+  * Update - removed 'by' text on caption hover author
+  * Fix - fix animated icongrid on IE
+  * Fix - fix Caption hover heading color

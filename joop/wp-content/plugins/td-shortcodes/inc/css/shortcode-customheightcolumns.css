@@ -1,0 +1,126 @@
+/* Split Layout customheightcolumn */
+.customheightcolumns, .customheightcolumns .tds-parallax, .customheightcolumns .tds-section-content {
+	padding: 0 !important;
+}
+
+.tds-customheightcolumns {
+	display: block;
+	position: relative;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+	.tds-customheightcolumns * {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+	}
+
+.tds-customheightcolumn {
+	padding: 0;
+	display: block;
+	vertical-align: middle;
+	background-position: 50% 50%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+	float: left;
+}
+	.tds-customheightcolumn:last-child:after {
+		content: "";
+		display: block;
+		height: 0;
+		clear: both;
+	}
+
+.tds-customheightcolumn.full {
+	width: 100%;
+}
+
+.tds-customheightcolumn.one.half {
+	width: 50%;
+}
+
+.tds-customheightcolumn.one.third {
+	width: 33.3%;
+}
+	.tds-customheightcolumn.two.third {
+		width: 66.6%;
+	}
+
+.tds-customheightcolumn.one.fourth {
+	width: 25%;
+}
+	.tds-customheightcolumn.two.fourth {
+		width: 25%;
+	}
+
+	.tds-customheightcolumn.three.fourth {
+		width: 25%;
+	}
+
+.tds-customheightcolumn.one.fifth {
+	width: 20%;
+}
+	.tds-customheightcolumn.one.fifth {
+		width: 20%;
+	}
+
+	.tds-customheightcolumn.two.fifth {
+		width: 40%;
+	}
+
+	.tds-customheightcolumn.three.fifth {
+		width: 60%;
+	}
+
+	.tds-customheightcolumn.four.fifth {
+		width: 20%;
+	}
+
+.tds-customheightcolumn .tds-box {
+	display: table;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 100%;
+	height: 100%;
+	position: relative;
+	margin: auto;
+	vertical-align: middle;
+}
+
+.tds-customheightcolumn .tds-box .tds-cell {
+	display: table-cell;
+	padding: 30px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 100%;
+	position: relative;
+	margin: auto;
+	vertical-align: middle;
+}
+
+.tds-customheightcolumns .tds-customheightcolumn img {
+	max-width: 100% !important;
+	width: auto;
+}
+
+@media screen and (max-width: 800px){
+	.tds-customheightcolumns {
+		display: block;
+		height: auto !important;
+		width: 100% !important;
+	}
+	.tds-customheightcolumn {
+		float: none;
+	}
+	.tds-customheightcolumns, .tds-customheightcolumn, .tds-customheightcolumn .tds-box {
+		/*display: block;*/
+		width: 100% !important;
+		min-height: 220px;
+	}
+
+}

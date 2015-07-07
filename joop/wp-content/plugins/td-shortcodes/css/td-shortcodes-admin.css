@@ -1,0 +1,22 @@
+ul.shortcodes-icons li i {
+	color:#000;
+}
+
+.icon-tds, .wpb-content-layouts a .icon-tds{
+	background: transparent url('../images/icon-shortcodes.png') top center no-repeat;
+	height: 16px;
+}
+
+.tds-shortcode .wpb_element_wrapper {
+	background: url('../images/icon-shortcodes.png') no-repeat scroll 15px 10px #FFFFFF !important; 
+}
+
+.post-new-php.post-type-page #TB_window,
+.post-new-php.post-type-post #TB_window {
+	z-index: 100050 !important;
+}
+
+.post-new-php.post-type-page #TB_overlay,
+.post-new-php.post-type-post #TB_overlay {
+	z-index: 100050 !important;
+}

@@ -1,0 +1,2534 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Joop\n"
+"POT-Creation-Date: 2014-11-18 13:56+0100\n"
+"PO-Revision-Date: 2014-11-18 13:56+0100\n"
+"Last-Translator: \n"
+"Language-Team: Theme Dutch <sales@theme-dutch.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-KeywordsList: _;_e;__;gettext;gettext_noop;__ngettext;_n;"
+"__ngettext_noop;_n_noop;_x;_nx;_nx_noop;_ex;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;_c;_nc()\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:20 ../no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../404.php:24 ../no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../404.php:29 ../no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../author-content.php:11
+#, php-format
+msgid "ABOUT THE AUTHOR: %s"
+msgstr ""
+
+#: ../author-content.php:15
+msgid "View all posts by"
+msgstr ""
+
+#: ../author-content.php:73
+msgid "You may also like"
+msgstr ""
+
+#: ../author.php:8
+#, php-format
+msgid "ABOUT %s"
+msgstr ""
+
+#: ../author.php:14
+#, php-format
+msgid "Entries by %s"
+msgstr ""
+
+#: ../comments.php:32
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: ../comments.php:39 ../comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:40 ../comments.php:60
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:41 ../comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-excerpt.php:106
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../content-excerpt.php:131 ../content-excerpt.php:151
+#: ../tdframework/theme-functions.php:1541
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../content-excerpt.php:131 ../content-excerpt.php:151
+msgid "Read more"
+msgstr ""
+
+#: ../content-excerpt.php:133 ../content-excerpt.php:152
+#: ../content-page.php:27 ../content.php:41 ../image.php:73
+#: ../single-portfolio.php:50 ../tdframework/post-types/content-aside.php:19
+#: ../tdframework/post-types/content-audio.php:37
+#: ../tdframework/post-types/content-chat.php:39
+#: ../tdframework/post-types/content-gallery.php:38
+#: ../tdframework/post-types/content-generic.php:19
+#: ../tdframework/post-types/content-image.php:38
+#: ../tdframework/post-types/content-link.php:37
+#: ../tdframework/post-types/content-quote.php:23
+#: ../tdframework/post-types/content-status.php:21
+#: ../tdframework/post-types/content-video.php:29 ../template-full.php:22
+msgid "Pages:"
+msgstr ""
+
+#: ../content-page.php:34 ../image.php:18 ../image.php:87
+#: ../tdframework/core/slider/slider-options.php:48
+#: ../tdframework/core/slider/slider-options.php:59
+#: ../tdframework/post-types/content-audio.php:27
+#: ../tdframework/post-types/content-chat.php:27
+#: ../tdframework/post-types/content-gallery.php:27
+#: ../tdframework/post-types/content-image.php:27
+#: ../tdframework/post-types/content-link.php:27
+#: ../tdframework/theme-functions.php:1488
+#: ../tdframework/theme-functions.php:1509
+#: ../tdframework/theme-functions.php:1627 ../template-full.php:29
+msgid "Edit"
+msgstr ""
+
+#: ../content.php:40 ../single-portfolio.php:49
+#: ../tdframework/post-types/content-aside.php:18
+#: ../tdframework/post-types/content-audio.php:36
+#: ../tdframework/post-types/content-chat.php:37
+#: ../tdframework/post-types/content-gallery.php:37
+#: ../tdframework/post-types/content-generic.php:18
+#: ../tdframework/post-types/content-image.php:37
+#: ../tdframework/post-types/content-link.php:36
+#: ../tdframework/post-types/content-status.php:19
+#: ../tdframework/post-types/content-video.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../functions.php:172 ../tdframework/theme-options.php:165
+msgid "Main menu"
+msgstr ""
+
+#: ../functions.php:173
+msgid "Top menu"
+msgstr ""
+
+#: ../functions.php:174 ../tdframework/theme-options.php:177
+msgid "Footer menu"
+msgstr ""
+
+#: ../functions.php:330
+msgid "Meta Title, Description and Keywords"
+msgstr ""
+
+#: ../image.php:79
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: ../image.php:81
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: ../image.php:83
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: ../image.php:85
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: ../searchform.php:11 ../searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: ../searchform.php:13
+msgid "What are you looking for &hellip;"
+msgstr ""
+
+#: ../tdframework/addons/bbpress/theme-bbpress.php:14
+msgid "bbPress"
+msgstr ""
+
+#: ../tdframework/addons/bbpress/theme-bbpress.php:14
+msgid "Use this page to define the layout of bbPress pages."
+msgstr ""
+
+#: ../tdframework/addons/bbpress/theme-bbpress.php:18
+msgid "bbPress page"
+msgstr ""
+
+#: ../tdframework/addons/bbpress/theme-bbpress.php:26
+#: ../tdframework/addons/portfolio/portfolio.php:155
+#: ../tdframework/addons/portfolio/portfolio.php:222
+msgid "Header Background"
+msgstr ""
+
+#: ../tdframework/addons/bbpress/theme-bbpress.php:26
+#: ../tdframework/addons/portfolio/portfolio-options.php:24
+#: ../tdframework/addons/portfolio/portfolio.php:155
+#: ../tdframework/addons/portfolio/portfolio.php:222
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:95
+#: ../tdframework/theme-options.php:75 ../tdframework/theme-options.php:439
+#: ../tdframework/theme-options.php:482 ../tdframework/theme-options.php:517
+#: ../tdframework/theme-page-options.php:20
+#: ../tdframework/theme-post-options.php:20
+msgid "You can have a background image or a slider in the background."
+msgstr ""
+
+#: ../tdframework/addons/bbpress/theme-bbpress.php:31
+#: ../tdframework/addons/portfolio/portfolio.php:160
+#: ../tdframework/addons/portfolio/portfolio.php:227
+msgid "Header Background Slider"
+msgstr ""
+
+#: ../tdframework/addons/bbpress/theme-bbpress.php:31
+#: ../tdframework/addons/portfolio/portfolio-options.php:29
+#: ../tdframework/addons/portfolio/portfolio.php:160
+#: ../tdframework/addons/portfolio/portfolio.php:227
+#: ../tdframework/addons/woocommerce/theme-product-options.php:25
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:100
+#: ../tdframework/theme-options.php:82 ../tdframework/theme-options.php:444
+#: ../tdframework/theme-options.php:487 ../tdframework/theme-options.php:522
+#: ../tdframework/theme-page-options.php:25
+#: ../tdframework/theme-post-options.php:25
+msgid ""
+"Use slider that is only applicable for background (ex. fullscreen slider)."
+msgstr ""
+
+#: ../tdframework/addons/bbpress/theme-bbpress.php:35
+#: ../tdframework/addons/portfolio/portfolio.php:164
+msgid "Header Background image"
+msgstr ""
+
+#: ../tdframework/addons/bbpress/theme-bbpress.php:35
+#: ../tdframework/addons/portfolio/portfolio.php:164
+#: ../tdframework/theme-options.php:86
+msgid "The default, site-wide background image."
+msgstr ""
+
+#: ../tdframework/addons/bbpress/theme-bbpress.php:37
+#: ../tdframework/addons/portfolio/portfolio-options.php:35
+#: ../tdframework/addons/woocommerce/theme-product-options.php:32
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:107
+#: ../tdframework/theme-options.php:450 ../tdframework/theme-options.php:494
+#: ../tdframework/theme-options.php:529
+#: ../tdframework/theme-page-options.php:32
+#: ../tdframework/theme-post-options.php:32
+msgid "Subtitle"
+msgstr ""
+
+#: ../tdframework/addons/bbpress/theme-bbpress.php:37
+#: ../tdframework/addons/portfolio/portfolio-options.php:35
+#: ../tdframework/addons/portfolio/portfolio.php:166
+#: ../tdframework/addons/portfolio/portfolio.php:233
+#: ../tdframework/addons/woocommerce/theme-product-options.php:32
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:107
+#: ../tdframework/theme-options.php:450 ../tdframework/theme-options.php:494
+#: ../tdframework/theme-options.php:529
+#: ../tdframework/theme-page-options.php:32
+#: ../tdframework/theme-post-options.php:32
+msgid "Any HTML put here will be included in it's own block above the content."
+msgstr ""
+
+#: ../tdframework/addons/plugins/activate-plugins.php:122
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../tdframework/addons/plugins/activate-plugins.php:123
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: ../tdframework/addons/plugins/activate-plugins.php:124
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../tdframework/addons/plugins/activate-plugins.php:125
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../tdframework/addons/plugins/activate-plugins.php:126
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:159
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: ../tdframework/addons/plugins/activate-plugins.php:127
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:160
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: ../tdframework/addons/plugins/activate-plugins.php:128
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:161
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+
+#: ../tdframework/addons/plugins/activate-plugins.php:129
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:162
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../tdframework/addons/plugins/activate-plugins.php:130
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../tdframework/addons/plugins/activate-plugins.php:131
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:164
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+
+#: ../tdframework/addons/plugins/activate-plugins.php:132
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:165
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: ../tdframework/addons/plugins/activate-plugins.php:133
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:166
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgstr ""
+
+#: ../tdframework/addons/plugins/activate-plugins.php:134
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:167
+msgid "Begin installing plugin"
+msgstr ""
+
+#: ../tdframework/addons/plugins/activate-plugins.php:135
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:168
+msgid "Activate installed plugin"
+msgstr ""
+
+#: ../tdframework/addons/plugins/activate-plugins.php:136
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../tdframework/addons/plugins/activate-plugins.php:137
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:171
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1839
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../tdframework/addons/plugins/activate-plugins.php:138
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:172
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1537
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1084
+msgid "External Link"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1089
+msgid "Private Repository"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1092
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1096
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1099
+msgid "Required"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1099
+msgid "Recommended"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1102
+msgid "Not Installed"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1104
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1274
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1290
+msgid "Plugin"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1291
+msgid "Source"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1292
+#: ../tdframework/core/core-ads.php:37
+msgid "Type"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1293
+msgid "Status"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1311
+msgid "Install"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1312
+msgid "Activate"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1822
+msgid "Install package not available."
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1823
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1824
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1825
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1826
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1827
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1838
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1948
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1949
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1949
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1958
+msgid "Show Details"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1949
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1958
+msgid "Hide Details"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1950
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1951
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1959
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:1960
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../tdframework/addons/plugins/class-tgm-plugin-activation.php:2051
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio-options.php:11
+msgid "Folio Options"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio-options.php:14
+#: ../tdframework/addons/portfolio/portfolio-options.php:42
+#: ../tdframework/addons/woocommerce/theme-product-options.php:12
+#: ../tdframework/theme-options.php:53
+#: ../tdframework/theme-page-options.php:12
+#: ../tdframework/theme-post-options.php:12
+msgid "General"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio-options.php:21
+#: ../tdframework/addons/portfolio/portfolio.php:152
+#: ../tdframework/theme-options.php:433 ../tdframework/theme-options.php:537
+msgid "Layout"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio-options.php:24
+#: ../tdframework/addons/woocommerce/theme-product-options.php:20
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:95
+#: ../tdframework/theme-options.php:75 ../tdframework/theme-options.php:439
+#: ../tdframework/theme-options.php:482 ../tdframework/theme-options.php:517
+#: ../tdframework/theme-page-options.php:20
+#: ../tdframework/theme-post-options.php:20
+msgid "Page Background"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio-options.php:29
+#: ../tdframework/addons/woocommerce/theme-product-options.php:25
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:100
+#: ../tdframework/theme-options.php:82 ../tdframework/theme-options.php:444
+#: ../tdframework/theme-options.php:487 ../tdframework/theme-options.php:522
+#: ../tdframework/theme-page-options.php:25
+#: ../tdframework/theme-post-options.php:25
+msgid "Background Slider"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio-options.php:33
+#: ../tdframework/addons/woocommerce/theme-product-options.php:29
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:104
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:112
+#: ../tdframework/theme-page-options.php:29
+msgid "Background image"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio-options.php:33
+#: ../tdframework/addons/woocommerce/theme-product-options.php:29
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:104
+#: ../tdframework/theme-page-options.php:29
+#: ../tdframework/theme-post-options.php:29
+msgid ""
+"This background image will override the one defined under theme options."
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio-options.php:39
+#: ../tdframework/addons/portfolio/portfolio.php:170
+msgid "Folio Tabs"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio-options.php:52
+msgid "Any HTML put here will be included in the content."
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:17
+#: ../tdframework/addons/portfolio/portfolio.php:18
+msgid "TD-Folio"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:38
+msgid "TD-Folio Categories"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:56
+#: ../tdframework/theme-functions.php:1382
+msgid "Post navigation"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:59
+msgid ""
+"<span class=\"meta-nav\"><i class=\"icon-chevron-left fa fa-chevron-left\"></"
+"i></span>"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:60
+msgid ""
+"<span class=\"meta-nav\"><i class=\"icon-chevron-right fa fa-chevron-right"
+"\"></i></span>"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:100
+#: ../woocommerce/single-product-reviews.php:23
+msgid "Reviews"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:141
+msgid "TD Folio"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:141
+msgid "Use this page to define the td Folio pages."
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:146
+msgid "Category pages"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:166
+msgid "HTML section"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:174
+msgid "Folio Tab Size"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:178
+msgid "Tab 1 Name:"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:179
+msgid "Tab 1 Icon:"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:181
+msgid "Tab 2 Name:"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:182
+msgid "Tab 2 Icon:"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:184
+msgid "Tab 3 Name:"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:185
+msgid "Tab 3 Icon:"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:187
+msgid "Tab 4 Name:"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:188
+msgid "Tab 4 Icon:"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:190
+msgid "Tab 5 Name:"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:191
+msgid "Tab 5 Icon:"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:193
+msgid "Tab 6 Name:"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:194
+msgid "Tab 6 Icon:"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:196
+msgid "Tab 7 Name:"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:197
+msgid "Tab 7 Icon:"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:199
+msgid "Tab 8 Name:"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:200
+msgid "Tab 8 Icon:"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:202
+msgid "Tab 9 Name:"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:203
+msgid "Tab 9 Icon:"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:205
+msgid "Tab 10 Name:"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:206
+msgid "Tab 10 Icon:"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:230
+msgid "Header Background Image"
+msgstr ""
+
+#: ../tdframework/addons/portfolio/portfolio.php:233
+msgid "Category HTML section"
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-product-options.php:20
+msgid ""
+"You can have a background image or the featured image as the background."
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:77
+msgid "Woocommerce"
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:77
+msgid "Use this page to define the layouts of WooCommerce pages."
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:81
+msgid "Shop page"
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:82
+msgid "Product category page"
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:83
+msgid "Product tag page"
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:84
+msgid "Product page"
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:349
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:352
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:380
+msgid "Shop"
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:461
+msgid "No products in the cart."
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:476
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:499
+#, php-format
+msgid "YOUR CART: %d products"
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:494
+msgid "Proceed to Checkout &rarr;"
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:495
+msgid "View Cart &rarr;"
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:584
+msgid "Column and Product Count"
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:586
+msgid ""
+"These settings control the number of columns and products in product "
+"listings."
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:591
+msgid "Column Count"
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:592
+msgid "The amount of product columns on an overview page."
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:611
+msgid "Product Count"
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:612
+msgid "The amount of products on an overview page."
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:621
+msgid "Related Items"
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:622
+msgid "The number of related items."
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:833
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../tdframework/addons/woocommerce/theme-woocommerce.php:833
+#: ../woocommerce/single-product/review.php:27
+msgid "out of 5"
+msgstr ""
+
+#: ../tdframework/core/colorschemes/colorschemes-options.php:13
+msgid "Here you can define color schemes to use on separate posts and pages."
+msgstr ""
+
+#: ../tdframework/core/colorschemes/colorschemes-options.php:32
+#: ../woocommerce/single-product-reviews.php:62
+msgid "Name"
+msgstr ""
+
+#: ../tdframework/core/colorschemes/colorschemes-options.php:33
+#: ../tdframework/theme-options.php:343
+msgid "Background color"
+msgstr ""
+
+#: ../tdframework/core/colorschemes/colorschemes-options.php:34
+msgid "Background opacity %"
+msgstr ""
+
+#: ../tdframework/core/colorschemes/colorschemes-options.php:35
+msgid "Paragraph color"
+msgstr ""
+
+#: ../tdframework/core/colorschemes/colorschemes-options.php:36
+msgid "Headings color"
+msgstr ""
+
+#: ../tdframework/core/colorschemes/colorschemes-options.php:90
+#: ../tdframework/core/core-ads.php:42
+msgid "Default"
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:35
+msgid "Show this advertisement"
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:38 ../tdframework/core/core-ads.php:45
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:260
+msgid "Image"
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:38 ../tdframework/core/core-ads.php:48
+msgid "Code"
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:41
+msgid "Alignment"
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:42
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:44
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:51
+msgid "Left"
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:42
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:45
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:52
+msgid "Right"
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:42
+msgid "Center"
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:45
+msgid "The image displayed for image type ads."
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:46
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:320
+msgid "Link"
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:47
+msgid "ALT text"
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:48
+msgid "The code used for code type ads."
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:49
+msgid "Notes"
+msgstr ""
+
+#: ../tdframework/core/core-ads.php:66
+#, php-format
+msgid "Ad spot %s does not exist."
+msgstr ""
+
+#: ../tdframework/core/core-breadcrumbs.php:200
+#: ../woocommerce/shop/breadcrumb.php:202
+msgid "Page"
+msgstr ""
+
+#: ../tdframework/core/core-seo.php:34
+msgid "Enable for this page."
+msgstr ""
+
+#: ../tdframework/core/core-seo.php:36
+msgid "Page Title"
+msgstr ""
+
+#: ../tdframework/core/core-seo.php:37 ../tdframework/theme-options.php:453
+msgid "Meta Description"
+msgstr ""
+
+#: ../tdframework/core/core-seo.php:37
+msgid "The description should optimally be between 150-160 characters."
+msgstr ""
+
+#: ../tdframework/core/core-seo.php:38
+msgid "Keywords"
+msgstr ""
+
+#: ../tdframework/core/core-seo.php:38
+msgid "Separate each keyword with a comma."
+msgstr ""
+
+#: ../tdframework/core/core-seo.php:75
+msgid ""
+"<!-- SEO Basic is disabled -->\n"
+"\t"
+msgstr ""
+
+#: ../tdframework/core/core-sociables.php:21
+msgid ""
+"Use this page to enter your social media profile names, or to define custom "
+"social media links."
+msgstr ""
+
+#: ../tdframework/core/core-sociables.php:24
+msgid "Predefined"
+msgstr ""
+
+#: ../tdframework/core/core-sociables.php:39
+msgid "URL"
+msgstr ""
+
+#: ../tdframework/core/core-sociables.php:40
+msgid "Icon"
+msgstr ""
+
+#: ../tdframework/core/core-sociables.php:41
+msgid "Hover icon"
+msgstr ""
+
+#: ../tdframework/core/core-utils.php:212
+#, php-format
+msgid "Customize %s"
+msgstr ""
+
+#: ../tdframework/core/fonts/fonts-init.php:15
+msgid "Amazingly few discotheques provide jukeboxes."
+msgstr ""
+
+#: ../tdframework/core/fonts/fonts-list.php:7
+msgid "Standard fonts"
+msgstr ""
+
+#: ../tdframework/core/fonts/fonts-list.php:17
+msgid "Google fonts"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-generate.php:154
+#: ../tdframework/core/layout/layout-generate.php:205
+msgid "No sidebar defined for this widget location."
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:133
+msgid "Default Left"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:134
+msgid "Default Right"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:135
+msgid "Widget 1"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:136
+msgid "Widget 2"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:137
+msgid "Widget 3"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:138
+msgid "Widget 4"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:139
+msgid "Widget 5"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-init.php:140
+msgid "Widget 6"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-options.php:121
+msgid "Sidebar"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-options.php:122
+msgid "Widget column"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-options.php:138
+msgid "Add"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-options.php:140
+msgid "Available sidebars"
+msgstr ""
+
+#: ../tdframework/core/layout/layout-options.php:146
+#: ../tdframework/core/layout/layout-options.php:156
+#: ../tdframework/core/slider/slider-options.php:49
+#: ../tdframework/core/slider/slider-options.php:60
+msgid "Remove"
+msgstr ""
+
+#: ../tdframework/core/options/options-classes.php:280
+#, php-format
+msgid "Unknown option type %s."
+msgstr ""
+
+#: ../tdframework/core/options/options-theme.php:44
+msgid "Options saved succesfully."
+msgstr ""
+
+#: ../tdframework/core/options/options-theme.php:150
+msgid " Options imported succesfully. "
+msgstr ""
+
+#: ../tdframework/core/options/options-theme.php:152
+msgid "Options import failed!"
+msgstr ""
+
+#: ../tdframework/core/options/options-theme.php:174
+msgid " options Reset to defaults."
+msgstr ""
+
+#: ../tdframework/core/options/options-types.php:83
+#: ../tdframework/core/slider/slider-flexslider/flexslider-product.php:86
+#: ../tdframework/core/slider/slider-flexslider/flexslider.php:86
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:140
+#: ../tdframework/core/slider/slider-options.php:89
+msgid "None"
+msgstr ""
+
+#: ../tdframework/core/options/options-types.php:91
+msgid "Pattern"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-flexslider/flexslider-product.php:41
+msgid "Fullscreen Products Slider"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-flexslider/flexslider-product.php:57
+#: ../tdframework/core/slider/slider-flexslider/flexslider.php:57
+#: ../tdframework/core/widgets/categories.php:21
+#: ../tdframework/theme-options.php:395
+msgid "Categories"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-flexslider/flexslider-product.php:58
+#: ../tdframework/core/slider/slider-flexslider/flexslider.php:58
+msgid ""
+"Enter the slug names of categories you want the slider to display, separated "
+"by commas."
+msgstr ""
+
+#: ../tdframework/core/slider/slider-flexslider/flexslider-product.php:63
+#: ../tdframework/core/slider/slider-flexslider/flexslider.php:63
+msgid "Post count"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-flexslider/flexslider-product.php:68
+#: ../tdframework/core/slider/slider-flexslider/flexslider.php:68
+msgid "Word count"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-flexslider/flexslider-product.php:74
+#: ../tdframework/core/slider/slider-flexslider/flexslider.php:74
+msgid "Slideshow"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-flexslider/flexslider-product.php:76
+#: ../tdframework/core/slider/slider-flexslider/flexslider.php:76
+msgid "True"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-flexslider/flexslider-product.php:77
+#: ../tdframework/core/slider/slider-flexslider/flexslider.php:77
+msgid "False"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-flexslider/flexslider-product.php:84
+#: ../tdframework/core/slider/slider-flexslider/flexslider.php:83
+msgid "Thumbnails"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-flexslider/flexslider-product.php:87
+#: ../tdframework/core/slider/slider-flexslider/flexslider.php:87
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:46
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:53
+msgid "Top"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-flexslider/flexslider-product.php:189
+msgid "View product"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-flexslider/flexslider-product.php:194
+#: ../woocommerce/content-product.php:65
+msgid "Select options"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-flexslider/flexslider-product.php:198
+#: ../woocommerce/content-product.php:78
+msgid "Add to cart"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-flexslider/flexslider-product.php:268
+msgid "Oops! No products added yet."
+msgstr ""
+
+#: ../tdframework/core/slider/slider-flexslider/flexslider.php:41
+msgid "Fullscreen Posts Slider"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-flexslider/flexslider.php:84
+msgid "Display featured thumbnail"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-flexslider/flexslider.php:181
+msgid "View posts"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:40
+msgid "Same window"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:40
+msgid "New window"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:47
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:54
+msgid "Bottom"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:48
+msgid "Fade"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:60
+msgid "Layer Slider"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:82
+msgid "Play automatically"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:87
+msgid "Reverse playback at end"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:92
+msgid "Show previous\\next buttons"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:97
+msgid "Show start\\stop buttons"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:102
+msgid "Show slide buttons"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:107
+msgid "Pause on hover"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:117
+msgid "Keyboard navigation"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:122
+msgid "Skinned"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:133
+msgid "Dark Skin"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:134
+msgid "Default Skin"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:137
+msgid "Glass"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:138
+msgid "Light Skin"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:139
+msgid "Minimal"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:142
+msgid "Skin"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:147
+msgid "Width"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:152
+msgid "Height"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:162
+msgid "Background"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:173
+msgid "Transition"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:185
+msgid "Duration"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:186
+msgid "This value determines how long the slide will remain visible."
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:199
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:376
+msgid "In\\out duration"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:218
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:395
+msgid "In\\out move effect"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:219
+msgid ""
+"These effects are used when moving the slide in and out of the slider area. "
+"Click for demos of these effects."
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:237
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:356
+msgid "In\\out delay"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:271
+msgid "HTML"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:272
+msgid ""
+"The HTML code will be displayed as part of this layer, together with the "
+"image."
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:282
+msgid "HTML width\\height"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:301
+msgid "Left\\top position"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:321
+msgid ""
+"Clicking this layer will navigate to this address. Layers with HTML will not "
+"be clickable."
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:337
+msgid "In\\out transition"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:357
+msgid ""
+"Use this to delay this layer from appearing, after the slide has started."
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:396
+msgid ""
+"These settings determine how the layer moves in or out of view. Click for "
+"demos of these effects."
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:414
+msgid "Depth"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:415
+msgid ""
+"Higher values will make this layer appear closer, lower values will make it "
+"appear farther away."
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/_slider-layerslider.php:428
+msgid "In\\out parallax"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:5
+msgid "LayerSlider WP"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:14
+msgid "Info"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-layerslider/slider-layerslider.php:16
+msgid "Please edit this slider in the LayerSlider WP section."
+msgstr ""
+
+#: ../tdframework/core/slider/slider-options.php:16
+msgid "Create sliders, to be used on pages and post."
+msgstr ""
+
+#: ../tdframework/core/slider/slider-options.php:40
+msgid "Add new"
+msgstr ""
+
+#: ../tdframework/core/slider/slider-registry.php:29
+#, php-format
+msgid "Could not find slider with slug name \"%s\"."
+msgstr ""
+
+#: ../tdframework/core/slider/slider-registry.php:82
+msgid "Slider saved succesfully."
+msgstr ""
+
+#: ../tdframework/core/widgets/adwidget.php:19
+msgid "ThemeDutch AdWidget"
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:7
+msgid "A list or dropdown of categories"
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:8
+msgid "ThemeDutch Categories"
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:48
+msgid "No categories found."
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:51
+msgid "Select Category"
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:106
+#: ../tdframework/core/widgets/postwidget.php:122
+msgid "Title:"
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:109
+msgid "Show these categories (slug names, separated by commas)"
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:113
+msgid "Display as dropdown"
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:116
+msgid "Show post counts"
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:119
+msgid "Show hierarchy"
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:122
+msgid "Show icons"
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:159
+#, php-format
+msgid "View all posts filed under %s"
+msgstr ""
+
+#: ../tdframework/core/widgets/categories.php:181
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: ../tdframework/core/widgets/postwidget.php:18
+msgid "ThemeDutch PostsWidget"
+msgstr ""
+
+#: ../tdframework/core/widgets/postwidget.php:111
+msgid "Latest Posts"
+msgstr ""
+
+#: ../tdframework/core/widgets/postwidget.php:126
+msgid "Display Option:"
+msgstr ""
+
+#: ../tdframework/core/widgets/postwidget.php:134
+msgid "Category: (comma separated)"
+msgstr ""
+
+#: ../tdframework/core/widgets/postwidget.php:139
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../tdframework/core/widgets/tabbedwidget.php:20
+msgid "ThemeDutch TabbedWidget"
+msgstr ""
+
+#: ../tdframework/core/widgets/tabbedwidget.php:70
+msgid "Tabbed Widgets"
+msgstr ""
+
+#: ../tdframework/core/widgets/tabbedwidget.php:75
+msgid ""
+"Place your desired widgets in the Tabbed Widget Area and they will show up "
+"here."
+msgstr ""
+
+#: ../tdframework/core/widgets/tabbedwidget.php:78
+msgid "!!! Important: DO NOT place this in the Tabbed Widget Area."
+msgstr ""
+
+#: ../tdframework/core/widgets/tabbedwidget.php:97
+msgid "Tabbed Widget Area"
+msgstr ""
+
+#: ../tdframework/core/widgets/tabbedwidget.php:99
+msgid ""
+"All the widgets being placed here will be the contents of ThemeDutch "
+"TabbedWidget. !!! IMPORTANT: Do NOT place the \"ThemeDutch TABBEDWIDGET\" in "
+"this area. Please put it in another Sidebar widget area. "
+msgstr ""
+
+#: ../tdframework/core/widgets/tabbedwidget.php:139
+#, php-format
+msgid ""
+"ThemeDutch TabbedWidget is activated.  To start using, add some widgets to "
+"the <a href=\"%s\">Tabbed Widget Area</a>."
+msgstr ""
+
+#: ../tdframework/customization.php:29 ../tdframework/theme-options.php:259
+msgid "Colors"
+msgstr ""
+
+#: ../tdframework/customization.php:68 ../tdframework/theme-options.php:284
+msgid "Links"
+msgstr ""
+
+#: ../tdframework/customization.php:72
+msgid "Links, hover"
+msgstr ""
+
+#: ../tdframework/customization.php:76
+msgid "Footer text"
+msgstr ""
+
+#: ../tdframework/customization.php:80
+msgid "Footer background"
+msgstr ""
+
+#: ../tdframework/customization.php:84
+msgid "Buttons"
+msgstr ""
+
+#: ../tdframework/customization.php:88
+msgid "Buttons text"
+msgstr ""
+
+#: ../tdframework/support-extras.php:103
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../tdframework/support-extras.php:127
+#, php-format
+msgid ""
+"<strong>%s</strong> requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1001
+msgid "powered by"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1388
+msgid "Previous article"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1394
+msgid "Next article"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1401
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1405
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1433
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1436
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1436
+msgid "F Y"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1439
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1439
+msgid "Y"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1442
+msgid "Portfolio"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1449
+#, php-format
+msgid "Showing posts with tag: %s"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1452
+#, php-format
+msgid "Search Results: %s"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1456
+#, php-format
+msgid "Author Archive for: %s"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1459
+msgid "Error404 "
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1488
+msgid "Pingback:"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1498
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1501
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1507
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1534
+#, php-format
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1561
+#: ../tdframework/theme-functions.php:1576
+msgid ", "
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1563
+msgid "in"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1578
+msgid "tags:"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1602
+msgid "by"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1604
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1610
+msgid "Sticky"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1619
+msgid "0 comment"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1619
+msgid "1 comment"
+msgstr ""
+
+#: ../tdframework/theme-functions.php:1619
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../tdframework/theme-options.php:53
+msgid "General theme options."
+msgstr ""
+
+#: ../tdframework/theme-options.php:58
+msgid "Settings"
+msgstr ""
+
+#: ../tdframework/theme-options.php:61
+msgid "Display blog meta"
+msgstr ""
+
+#: ../tdframework/theme-options.php:61
+msgid "This setting toggles the display of meta-information in blog posts."
+msgstr ""
+
+#: ../tdframework/theme-options.php:62
+msgid "Display breadcrumbs"
+msgstr ""
+
+#: ../tdframework/theme-options.php:62
+msgid "This setting toggles the display of the breadcrumbs navigation aid."
+msgstr ""
+
+#: ../tdframework/theme-options.php:63
+msgid "Display page titles"
+msgstr ""
+
+#: ../tdframework/theme-options.php:63
+msgid ""
+"This setting toggles the display of the titles at the top of every page."
+msgstr ""
+
+#: ../tdframework/theme-options.php:64
+msgid "Display featured image"
+msgstr ""
+
+#: ../tdframework/theme-options.php:64
+msgid ""
+"This setting toggles the display of the featured image on top of every post."
+msgstr ""
+
+#: ../tdframework/theme-options.php:65
+msgid "Enable Page Loader"
+msgstr ""
+
+#: ../tdframework/theme-options.php:65
+msgid "This allows you to add a page loader to the site."
+msgstr ""
+
+#: ../tdframework/theme-options.php:66
+msgid "Show Preview Box"
+msgstr ""
+
+#: ../tdframework/theme-options.php:66
+msgid "This setting will show the preview box."
+msgstr ""
+
+#: ../tdframework/theme-options.php:68
+msgid "Images"
+msgstr ""
+
+#: ../tdframework/theme-options.php:71
+msgid "Favicon"
+msgstr ""
+
+#: ../tdframework/theme-options.php:71
+msgid ""
+"This image is displayed in the browser window's title and in browser "
+"favourites."
+msgstr ""
+
+#: ../tdframework/theme-options.php:72
+msgid "Login logo"
+msgstr ""
+
+#: ../tdframework/theme-options.php:72
+msgid "The logo displayed in the the user login page."
+msgstr ""
+
+#: ../tdframework/theme-options.php:79
+msgid "Default background on all pages/posts"
+msgstr ""
+
+#: ../tdframework/theme-options.php:79
+msgid ""
+"The default header image but can be overridden in the respective page/post "
+"header section option."
+msgstr ""
+
+#: ../tdframework/theme-options.php:86 ../tdframework/theme-options.php:447
+#: ../tdframework/theme-options.php:491 ../tdframework/theme-options.php:526
+#: ../tdframework/theme-post-options.php:29
+msgid "Background Image"
+msgstr ""
+
+#: ../tdframework/theme-options.php:89
+msgid "Miscellaneous"
+msgstr ""
+
+#: ../tdframework/theme-options.php:92
+msgid "Enable SEO Basic"
+msgstr ""
+
+#: ../tdframework/theme-options.php:92
+msgid "WARNING! Only enable this if you do not have any WP SEO installed."
+msgstr ""
+
+#: ../tdframework/theme-options.php:93
+msgid "Google analytics code"
+msgstr ""
+
+#: ../tdframework/theme-options.php:93
+msgid ""
+"Place your Google Analytics code snippet here and it will be included in "
+"every page."
+msgstr ""
+
+#: ../tdframework/theme-options.php:95
+msgid "Custom CSS"
+msgstr ""
+
+#: ../tdframework/theme-options.php:95
+msgid "Place your custom css styles here"
+msgstr ""
+
+#: ../tdframework/theme-options.php:96
+msgid "Custom Javascript"
+msgstr ""
+
+#: ../tdframework/theme-options.php:96
+msgid "Place your custom javascripts here"
+msgstr ""
+
+#: ../tdframework/theme-options.php:110
+msgid "Typography"
+msgstr ""
+
+#: ../tdframework/theme-options.php:110
+msgid ""
+"Adjust the theme's typography. You can choose one of the predefined fonts, "
+"or enter a custom font name from the <a href=\"http://www.google.com/webfonts"
+"\" target=\"_blank\">Google Web Fonts</a> service."
+msgstr ""
+
+#: ../tdframework/theme-options.php:114
+msgid "Fonts"
+msgstr ""
+
+#: ../tdframework/theme-options.php:117
+msgid "Menu font"
+msgstr ""
+
+#: ../tdframework/theme-options.php:118
+msgid "Heading font"
+msgstr ""
+
+#: ../tdframework/theme-options.php:119
+msgid "Paragraph font"
+msgstr ""
+
+#: ../tdframework/theme-options.php:122
+msgid "Heading sizes"
+msgstr ""
+
+#: ../tdframework/theme-options.php:125 ../tdframework/theme-options.php:221
+#: ../tdframework/theme-options.php:265
+msgid "Heading 1"
+msgstr ""
+
+#: ../tdframework/theme-options.php:131 ../tdframework/theme-options.php:227
+#: ../tdframework/theme-options.php:266
+msgid "Heading 2"
+msgstr ""
+
+#: ../tdframework/theme-options.php:137 ../tdframework/theme-options.php:233
+#: ../tdframework/theme-options.php:267
+msgid "Heading 3"
+msgstr ""
+
+#: ../tdframework/theme-options.php:143 ../tdframework/theme-options.php:239
+#: ../tdframework/theme-options.php:268
+msgid "Heading 4"
+msgstr ""
+
+#: ../tdframework/theme-options.php:149 ../tdframework/theme-options.php:245
+#: ../tdframework/theme-options.php:269
+msgid "Heading 5"
+msgstr ""
+
+#: ../tdframework/theme-options.php:155 ../tdframework/theme-options.php:251
+#: ../tdframework/theme-options.php:270
+msgid "Heading 6"
+msgstr ""
+
+#: ../tdframework/theme-options.php:162
+msgid "Menu sizes"
+msgstr ""
+
+#: ../tdframework/theme-options.php:171
+msgid "Main menu submenu"
+msgstr ""
+
+#: ../tdframework/theme-options.php:184
+msgid "Other sizes"
+msgstr ""
+
+#: ../tdframework/theme-options.php:187 ../tdframework/theme-options.php:215
+msgid "Paragraph"
+msgstr ""
+
+#: ../tdframework/theme-options.php:193
+msgid "Widget Titles"
+msgstr ""
+
+#: ../tdframework/theme-options.php:199 ../tdframework/theme-options.php:378
+#: ../tdframework/theme-options.php:387 ../tdframework/theme-options.php:392
+msgid "Copyright"
+msgstr ""
+
+#: ../tdframework/theme-options.php:205 ../tdframework/theme-options.php:351
+msgid "Footer"
+msgstr ""
+
+#: ../tdframework/theme-options.php:212
+msgid "Line Height"
+msgstr ""
+
+#: ../tdframework/theme-options.php:259
+msgid "Customize the theme's colors."
+msgstr ""
+
+#: ../tdframework/theme-options.php:263
+msgid "Headings"
+msgstr ""
+
+#: ../tdframework/theme-options.php:273
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../tdframework/theme-options.php:275
+msgid "Breadcrumb background"
+msgstr ""
+
+#: ../tdframework/theme-options.php:276
+msgid "Breadcrumb text"
+msgstr ""
+
+#: ../tdframework/theme-options.php:277
+msgid "Breadcrumb text hover"
+msgstr ""
+
+#: ../tdframework/theme-options.php:280
+msgid "Content"
+msgstr ""
+
+#: ../tdframework/theme-options.php:282
+msgid "Content background"
+msgstr ""
+
+#: ../tdframework/theme-options.php:283
+msgid "Paragraphs"
+msgstr ""
+
+#: ../tdframework/theme-options.php:285
+msgid "Links hover"
+msgstr ""
+
+#: ../tdframework/theme-options.php:288
+msgid "Button"
+msgstr ""
+
+#: ../tdframework/theme-options.php:290
+msgid "Button text"
+msgstr ""
+
+#: ../tdframework/theme-options.php:291
+msgid "Button text hover"
+msgstr ""
+
+#: ../tdframework/theme-options.php:292
+msgid "BG gradient color 1"
+msgstr ""
+
+#: ../tdframework/theme-options.php:293
+msgid "BG gradient color 2"
+msgstr ""
+
+#: ../tdframework/theme-options.php:294
+msgid "Text Shadow"
+msgstr ""
+
+#: ../tdframework/theme-options.php:295
+msgid "Border Color"
+msgstr ""
+
+#: ../tdframework/theme-options.php:296
+msgid "Box shadow"
+msgstr ""
+
+#: ../tdframework/theme-options.php:299
+msgid "Header Icons"
+msgstr ""
+
+#: ../tdframework/theme-options.php:301
+msgid "Header icons color"
+msgstr ""
+
+#: ../tdframework/theme-options.php:302
+msgid "Header icons hover color"
+msgstr ""
+
+#: ../tdframework/theme-options.php:306
+msgid "Header"
+msgstr ""
+
+#: ../tdframework/theme-options.php:306
+msgid "Customize the theme's Header area."
+msgstr ""
+
+#: ../tdframework/theme-options.php:310 ../tdframework/theme-options.php:313
+msgid "Logo"
+msgstr ""
+
+#: ../tdframework/theme-options.php:313
+msgid "The logo is displayed in the site's header."
+msgstr ""
+
+#: ../tdframework/theme-options.php:314
+msgid "Resize logo"
+msgstr ""
+
+#: ../tdframework/theme-options.php:314
+msgid ""
+"This setting allows you to turn on/off the resize of the logo height when "
+"you scroll up and down."
+msgstr ""
+
+#: ../tdframework/theme-options.php:315
+msgid "Hide Lock icon"
+msgstr ""
+
+#: ../tdframework/theme-options.php:315
+msgid "This will allows you to hide lock icon at header."
+msgstr ""
+
+#: ../tdframework/theme-options.php:318 ../tdframework/theme-options.php:329
+msgid "Menu"
+msgstr ""
+
+#: ../tdframework/theme-options.php:321
+msgid "Main background color"
+msgstr ""
+
+#: ../tdframework/theme-options.php:323
+msgid "Main background opacity"
+msgstr ""
+
+#: ../tdframework/theme-options.php:330
+msgid "Menu hover"
+msgstr ""
+
+#: ../tdframework/theme-options.php:331
+msgid "Menu hover background"
+msgstr ""
+
+#: ../tdframework/theme-options.php:332
+msgid "Submenu text"
+msgstr ""
+
+#: ../tdframework/theme-options.php:333
+msgid "Submenu text hover"
+msgstr ""
+
+#: ../tdframework/theme-options.php:334
+msgid "Submenu background"
+msgstr ""
+
+#: ../tdframework/theme-options.php:335
+msgid "Submenu hover background"
+msgstr ""
+
+#: ../tdframework/theme-options.php:339
+msgid "News Scroller"
+msgstr ""
+
+#: ../tdframework/theme-options.php:342
+msgid "Activate News Scroller"
+msgstr ""
+
+#: ../tdframework/theme-options.php:342
+msgid ""
+"News scroller will be displayed at the header right beside the theme logo."
+msgstr ""
+
+#: ../tdframework/theme-options.php:344
+msgid "Text color"
+msgstr ""
+
+#: ../tdframework/theme-options.php:345
+msgid "News Item 1"
+msgstr ""
+
+#: ../tdframework/theme-options.php:346
+msgid "News Item 2"
+msgstr ""
+
+#: ../tdframework/theme-options.php:347
+msgid "News Item 3"
+msgstr ""
+
+#: ../tdframework/theme-options.php:351
+msgid "Customize the Footer area."
+msgstr ""
+
+#: ../tdframework/theme-options.php:355
+msgid "Widget Area"
+msgstr ""
+
+#: ../tdframework/theme-options.php:358 ../tdframework/theme-options.php:375
+msgid "Content Color"
+msgstr ""
+
+#: ../tdframework/theme-options.php:359 ../tdframework/theme-options.php:376
+msgid "Link Color"
+msgstr ""
+
+#: ../tdframework/theme-options.php:360 ../tdframework/theme-options.php:377
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../tdframework/theme-options.php:361 ../tdframework/theme-options.php:374
+msgid "Background Color"
+msgstr ""
+
+#: ../tdframework/theme-options.php:364
+msgid "Footer Background"
+msgstr ""
+
+#: ../tdframework/theme-options.php:364
+msgid "You can select here a background image for the footer area."
+msgstr ""
+
+#: ../tdframework/theme-options.php:368
+msgid "Footer Image"
+msgstr ""
+
+#: ../tdframework/theme-options.php:368
+msgid "The Footer background image."
+msgstr ""
+
+#: ../tdframework/theme-options.php:371
+msgid "Menu Area"
+msgstr ""
+
+#: ../tdframework/theme-options.php:381
+msgid "Social Icons"
+msgstr ""
+
+#: ../tdframework/theme-options.php:383
+msgid "Social icons color"
+msgstr ""
+
+#: ../tdframework/theme-options.php:384
+msgid "Social icons hover color"
+msgstr ""
+
+#: ../tdframework/theme-options.php:390
+msgid "Copyright name"
+msgstr ""
+
+#: ../tdframework/theme-options.php:390
+msgid "The name which will be displayed in the footers's copyright."
+msgstr ""
+
+#: ../tdframework/theme-options.php:391
+msgid "Copyright link"
+msgstr ""
+
+#: ../tdframework/theme-options.php:391
+msgid "The full link to the copyright holder's website."
+msgstr ""
+
+#: ../tdframework/theme-options.php:392
+msgid ""
+"This will appear at the footer and the above options will be overwritten if "
+"you enter your html formatted copyright here"
+msgstr ""
+
+#: ../tdframework/theme-options.php:395
+msgid "Use this page to define options for individual categories."
+msgstr ""
+
+#: ../tdframework/theme-options.php:453
+msgid "Enter the meta description for this category page."
+msgstr ""
+
+#: ../tdframework/theme-options.php:454
+msgid "Meta Keywords"
+msgstr ""
+
+#: ../tdframework/theme-options.php:454
+msgid "Enter the meta keywords separated by commas"
+msgstr ""
+
+#: ../tdframework/theme-options.php:467
+msgid "Layouts"
+msgstr ""
+
+#: ../tdframework/theme-options.php:467
+msgid "Use this page to define the layouts of special pages."
+msgstr ""
+
+#: ../tdframework/theme-options.php:474
+msgid "Default page"
+msgstr ""
+
+#: ../tdframework/theme-options.php:499
+msgid "Home page"
+msgstr ""
+
+#: ../tdframework/theme-options.php:500
+msgid "Search page"
+msgstr ""
+
+#: ../tdframework/theme-options.php:501
+msgid "Archive page"
+msgstr ""
+
+#: ../tdframework/theme-options.php:502
+msgid "404 page"
+msgstr ""
+
+#: ../tdframework/theme-options.php:503
+msgid "Author page"
+msgstr ""
+
+#: ../tdframework/theme-options.php:504
+msgid "Tag page"
+msgstr ""
+
+#: ../tdframework/theme-options.php:542
+msgid ""
+"Use this option to change the layout of the current page. Sidebars are "
+"ordered from left to right."
+msgstr ""
+
+#: ../tdframework/theme-options.php:545
+msgid "Widgets"
+msgstr ""
+
+#: ../tdframework/theme-options.php:545
+msgid ""
+"By adding widgets here, you can assign and use them in your page layouts."
+msgstr ""
+
+#: ../woocommerce/content-product.php:71
+msgid "View details"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:13
+#, php-format
+msgid "You have received an order from %s. Their order is as follows:"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:17
+#, php-format
+msgid "Order: %s"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:22
+#: ../woocommerce/emails/customer-completed-order.php:23
+#: ../woocommerce/emails/customer-invoice.php:27
+#: ../woocommerce/emails/customer-note.php:27
+#: ../woocommerce/emails/customer-processing-order.php:23
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:23
+#: ../woocommerce/emails/customer-completed-order.php:24
+#: ../woocommerce/emails/customer-invoice.php:28
+#: ../woocommerce/emails/customer-note.php:28
+#: ../woocommerce/emails/customer-processing-order.php:24
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:24
+#: ../woocommerce/emails/customer-completed-order.php:25
+#: ../woocommerce/emails/customer-invoice.php:29
+#: ../woocommerce/emails/customer-note.php:29
+#: ../woocommerce/emails/customer-processing-order.php:25
+msgid "Price"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:50
+#: ../woocommerce/emails/customer-completed-order.php:51
+#: ../woocommerce/emails/customer-note.php:55
+#: ../woocommerce/emails/customer-processing-order.php:51
+msgid "Customer details"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:53
+#: ../woocommerce/emails/customer-completed-order.php:54
+#: ../woocommerce/emails/customer-note.php:58
+#: ../woocommerce/emails/customer-processing-order.php:54
+msgid "Email:"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:56
+#: ../woocommerce/emails/customer-completed-order.php:57
+#: ../woocommerce/emails/customer-note.php:61
+#: ../woocommerce/emails/customer-processing-order.php:57
+msgid "Tel:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-completed-order.php:14
+#, php-format
+msgid ""
+"Hi there. Your recent order on %s has been completed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-completed-order.php:18
+#: ../woocommerce/emails/customer-invoice.php:22
+#: ../woocommerce/emails/customer-note.php:22
+#: ../woocommerce/emails/customer-processing-order.php:18
+msgid "Order:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-invoice.php:16
+#, php-format
+msgid ""
+"An order has been created for you on %s. To pay for this order please use "
+"the following link: %s"
+msgstr ""
+
+#: ../woocommerce/emails/customer-invoice.php:16
+msgid "pay"
+msgstr ""
+
+#: ../woocommerce/emails/customer-new-account.php:14
+#, php-format
+msgid ""
+"Thanks for creating an account on %s. Your username is <strong>%s</strong>."
+msgstr ""
+
+#: ../woocommerce/emails/customer-new-account.php:16
+#, php-format
+msgid "You can access your account area here: %s."
+msgstr ""
+
+#: ../woocommerce/emails/customer-note.php:14
+msgid "Hello, a note has just been added to your order:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-note.php:18
+msgid "For your reference, your order details are shown below."
+msgstr ""
+
+#: ../woocommerce/emails/customer-processing-order.php:14
+msgid ""
+"Your order has been received and is now being processed. Your order details "
+"are shown below for your reference:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:14
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:15
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:16
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:17
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:20
+msgid "Click here to reset your password"
+msgstr ""
+
+#: ../woocommerce/emails/email-addresses.php:20
+msgid "Billing address"
+msgstr ""
+
+#: ../woocommerce/emails/email-addresses.php:30
+msgid "Shipping address"
+msgstr ""
+
+#: ../woocommerce/emails/email-order-items.php:25
+msgid "Product Image"
+msgstr ""
+
+#: ../woocommerce/emails/email-order-items.php:46
+#, php-format
+msgid "Download %d"
+msgstr ""
+
+#: ../woocommerce/emails/email-order-items.php:48
+msgid "Download"
+msgstr ""
+
+#: ../woocommerce/loop/no-products-found.php:14
+msgid "No products found which match your selection."
+msgstr ""
+
+#: ../woocommerce/loop/sale-flash.php:16
+#: ../woocommerce/single-product/sale-flash.php:16
+msgid "Sale!"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:63
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:91
+#: ../woocommerce/shop/breadcrumb.php:188
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:146
+msgid "Error 404"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:192
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:197
+msgid "Author:"
+msgstr ""
+
+#: ../woocommerce/shop/form-login.php:20
+msgid "Username or email"
+msgstr ""
+
+#: ../woocommerce/shop/form-login.php:24
+msgid "Password"
+msgstr ""
+
+#: ../woocommerce/shop/form-login.php:31
+msgid "Login"
+msgstr ""
+
+#: ../woocommerce/shop/form-login.php:33
+msgid "Lost Password?"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:21
+#, php-format
+msgid "%s review for %s"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:44
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:57
+msgid "Add a review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:57
+msgid "Be the first to review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:58
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:64
+msgid "Email"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:67
+msgid "Submit"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:73
+msgid "Your Rating"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:74
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:75
+msgid "Perfect"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:76
+msgid "Good"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:77
+msgid "Average"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:78
+msgid "Not that bad"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:79
+msgid "Very Poor"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:83
+msgid "Your Review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:92
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:19
+msgid "SKU:"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:24
+msgid "Category:"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:29
+msgid "Tag:"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:34
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:43
+msgid "verified owner"
+msgstr ""
