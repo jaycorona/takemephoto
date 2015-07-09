@@ -115,7 +115,7 @@ function theme_woocommerce_layout($layout) {
 	if (!is_woocommerce()) {
 		return $layout;
 	}
-
+ 
 	if (is_shop()) {
 		return core_options_get('layout-woocommerce-shop');
 	}
