@@ -45,5 +45,40 @@
 
 <?php wp_footer(); ?>
 
+<?php 
+
+$request 	= substr($_SERVER['REQUEST_URI'], 0, 27);
+$servername = $_SERVER['SERVER_NAME'];
+$url 		= $_SERVER['REQUEST_URI'];
+$domain   	= 'http://'.$servername.$url;
+
+
+if($request == '/checkout-2/order-received/' ){
+//echo $request.'<br>';
+
+
+$cookie_name = "Cookie";
+$cookie_value = "reload";
+setcookie($cookie_name, $cookie_value, time() + (86400 * 30), "/"); // 86400 = 1 day
+
+
+		if(!isset($_COOKIE[$cookie_name])) {
+		      echo "Cookie named '" . $cookie_name . "' is not set!";
+		      echo '<script type="text/javascript">
+						 		location.reload();
+					</script>';
+		} else {
+		      echo "CookieName '" . $cookie_name . "' is set!<br>";
+		      echo "Value is: " . $_COOKIE[$cookie_name];
+		}
+
+		if($_COOKIE[$cookie_name]){
+			setcookie("Cookie","", time()-3600, "/");
+			unset ($_COOKIE['Cookie']);			
+		}
+}
+
+
+?>
 </body>
 </html>
