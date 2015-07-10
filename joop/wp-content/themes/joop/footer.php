@@ -65,9 +65,7 @@ setcookie($cookie_name, $cookie_value, time() + (86400 * 30), "/"); // 86400 = 1
 		if(!isset($_COOKIE[$cookie_name])) {
 		      echo "Cookie named '" . $cookie_name . "' is not set!";
 		      echo '<script type="text/javascript">
-						setTimeout(function() {
 						 		location.reload();
-						}, 1000);
 					</script>';
 		} else {
 		      echo "CookieName '" . $cookie_name . "' is set!<br>";
@@ -82,5 +80,9 @@ setcookie($cookie_name, $cookie_value, time() + (86400 * 30), "/"); // 86400 = 1
 
 
 ?>
+<script>
+	document.getElementsByClassName("woocommerce-error").style.color = "red";
+
+</script>
 </body>
 </html>
